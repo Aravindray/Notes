@@ -196,7 +196,7 @@ del filename.extension
 
 ## Editor Shortcuts
 
-Cursor preview - <img width="50" height="50" src="https://img.icons8.com/ios/50/text-cursor.png" alt="text-cursor"/>
+Cursor preview - <img width="15" height="15" src="https://img.icons8.com/ios/50/text-cursor.png" alt="text-cursor"/>
 
 1. Delete a letter - use ```Backspace``` to delete a letter from left side of the cursor & use ```Delete``` to delete a letter from right side of the cursor.
 2. Delete a word - use ```Ctrl + Backspace``` to delete a word from left side of the cursor & use ```Ctrl + Delete``` to delete a word from right side of the cursor.
