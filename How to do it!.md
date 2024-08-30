@@ -15,8 +15,8 @@
     - [How to connect WiFi FTP Server in Windows PC?](#how-to-connect-wifi-ftp-server-in-windows-pc)
     - [How to fetch all files name from a folder and store it as desire file format (ex. csv, xlsx, txt)](#how-to-fetch-all-files-name-from-a-folder-and-store-it-as-desire-file-format-ex-csv-xlsx-txt)
     - [How to create / delete folder and files using windows command prompt?](#how-to-create--delete-folder-and-files-using-windows-command-prompt)
-    - [Helpful Shortcuts](#helpful-shortcuts)
-  - [Editor Shortcuts](#editor-shortcuts)
+- [Helpful Shortcuts](#helpful-shortcuts)
+    - [Editor Shortcuts](#editor-shortcuts)
 
 <br>
 
