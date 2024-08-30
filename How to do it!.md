@@ -192,9 +192,9 @@ To delete a file go to desire file location and enter the below cmd:
 del filename.extension
 ```
 
-### Helpful Shortcuts
+# Helpful Shortcuts
 
-## Editor Shortcuts
+### Editor Shortcuts
 
 Cursor preview - <img width="15" height="15" src="https://img.icons8.com/ios/50/text-cursor.png" alt="text-cursor"/>
 
