@@ -100,7 +100,24 @@ Don't need to sign in just click download without sign in.
 
 ### How to create and activate virtual environment in python?
 
-Working of finding answers!
+Decide your working location / directory where new virtual environment folder lives in your PC.
+
+- To Create
+```command line interface
+$> py -m venv helium
+```
+Above command created a new folder named as 'helium' in the selected location.
+
+- To Activate (for windows PC)
+```command line interface
+$> helium\Scripts\activate.bat
+```
+From the above command an virtual environment is activated and you can notice it before your terminal prompt.
+
+- Preview
+```cmd
+(helium) $>
+``` 
 
 ### What are the requirements needed to work with JavaScript in Windows PC?
 
