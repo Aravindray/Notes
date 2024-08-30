@@ -17,6 +17,22 @@
     - [How to create / delete folder and files using windows command prompt?](#how-to-create--delete-folder-and-files-using-windows-command-prompt)
 - [Helpful Shortcuts](#helpful-shortcuts)
     - [Editor Shortcuts](#editor-shortcuts)
+- [World of Open Source! (My favorite)](#world-of-open-source-my-favorite)
+  - [Development and Programming](#development-and-programming)
+    - [Operating System](#operating-system)
+    - [For Web Development](#for-web-development)
+      - [Programming Languages](#programming-languages)
+      - [Frameworks](#frameworks)
+    - [Database Management System](#database-management-system)
+      - [SQL](#sql)
+      - [NoSQL](#nosql)
+    - [Web Browser](#web-browser)
+  - [Creativity and Graphic Design](#creativity-and-graphic-design)
+      - [Photoshop \& Illustrator](#photoshop--illustrator)
+      - [3D Modeling](#3d-modeling)
+      - [Video Editing](#video-editing)
+  - [Productivity](#productivity)
+    - [Office Suites](#office-suites)
 
 <br>
 
@@ -218,3 +234,63 @@ Cursor preview - <img width="15" height="15" src="https://img.icons8.com/ios/50/
 1. Delete a letter - use ```Backspace``` to delete a letter from left side of the cursor & use ```Delete``` to delete a letter from right side of the cursor.
 2. Delete a word - use ```Ctrl + Backspace``` to delete a word from left side of the cursor & use ```Ctrl + Delete``` to delete a word from right side of the cursor.
 3. In VS code to delete a current line - use ```shift + Delete``` (that is blinking cursor - entire line).
+
+# World of Open Source! (My favorite)
+
+## Development and Programming
+
+### Operating System
+
+- Linux
+
+### For Web Development
+
+#### Programming Languages
+
+- Python
+- JavaScript
+- HTML
+- CSS
+- GIT
+
+#### Frameworks
+
+- React
+- Django
+
+### Database Management System
+
+#### SQL
+
+- MySQL
+- PostgreSQL
+
+#### NoSQL
+
+- MongoDB
+
+### Web Browser
+
+- Mozilla
+
+## Creativity and Graphic Design
+
+#### Photoshop & Illustrator
+
+- GIMP
+- Inkscape
+- Krita (for digital painting)
+
+#### 3D Modeling
+
+- Blender
+
+#### Video Editing
+
+- ?
+
+## Productivity
+
+### Office Suites
+
+- LibreOffice
