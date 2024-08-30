@@ -15,6 +15,8 @@
     - [How to connect WiFi FTP Server in Windows PC?](#how-to-connect-wifi-ftp-server-in-windows-pc)
     - [How to fetch all files name from a folder and store it as desire file format (ex. csv, xlsx, txt)](#how-to-fetch-all-files-name-from-a-folder-and-store-it-as-desire-file-format-ex-csv-xlsx-txt)
     - [How to create / delete folder and files using windows command prompt?](#how-to-create--delete-folder-and-files-using-windows-command-prompt)
+    - [Helpful Shortcuts](#helpful-shortcuts)
+  - [Editor Shortcuts](#editor-shortcuts)
 
 <br>
 
@@ -189,3 +191,13 @@ To delete a file go to desire file location and enter the below cmd:
 ```cmd
 del filename.extension
 ```
+
+### Helpful Shortcuts
+
+## Editor Shortcuts
+
+Cursor preview - <img width="50" height="50" src="https://img.icons8.com/ios/50/text-cursor.png" alt="text-cursor"/>
+
+1. Delete a letter - use ```Backspace``` to delete a letter from left side of the cursor & use ```Delete``` to delete a letter from right side of the cursor.
+2. Delete a word - use ```Ctrl + Backspace``` to delete a word from left side of the cursor & use ```Ctrl + Delete``` to delete a word from right side of the cursor.
+3. In VS code to delete a current line - use ```shift + Delete``` (that is blinking cursor - entire line).
