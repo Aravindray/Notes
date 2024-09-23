@@ -47,8 +47,14 @@
 
 ### How to login and setup in git?
 
-To add name - git config --global user.name "your_name" <br>
-To add email - git config --global user.email "your_email"
+To add name
+```git
+git config --global user.name "your_name"
+```
+To add email
+```git
+git config --global user.email "your_email"
+```
 
 
 ### How to add date & time in command prompt or terminal in windows PC?
