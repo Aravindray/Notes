@@ -16,6 +16,7 @@
     - [How to fetch all files name from a folder and store it as desire file format (ex. csv, xlsx, txt)](#how-to-fetch-all-files-name-from-a-folder-and-store-it-as-desire-file-format-ex-csv-xlsx-txt)
     - [How to create / delete folder and files using windows command prompt?](#how-to-create--delete-folder-and-files-using-windows-command-prompt)
     - [How to rename files bulk in a folder using windows command prompt?](#how-to-rename-files-bulk-in-a-folder-using-windows-command-prompt)
+    - [How to uninstall pip package?](#how-to-uninstall-pip-package)
 - [Helpful Shortcuts](#helpful-shortcuts)
     - [Editor Shortcuts](#editor-shortcuts)
 - [World of Open Source! (My favorite)](#world-of-open-source-my-favorite)
@@ -242,6 +243,12 @@ For example if an old file name is "sorry.mp3" and you want to rename it as "apo
 > rename "sorry.mp3" "apology.mp3" 
 or
 > ren "sorry.mp3" "apology.mp3"
+```
+
+### How to uninstall pip package?
+
+```cmd
+py -m pip uninstall <package_name>
 ```
 
 # Helpful Shortcuts
