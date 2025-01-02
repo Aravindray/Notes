@@ -123,6 +123,8 @@ Then download the Windows (x86, 32-bit), MSI Installer with maximum MB (the seco
 
 Don't need to sign in just click download without sign in.
 
+Important Note: Don't Change Window Service Name default is MYSQL80, Again do not change the name
+
 ### How to create and activate virtual environment in python?
 
 Decide your working location / directory where new virtual environment folder lives in your PC.
