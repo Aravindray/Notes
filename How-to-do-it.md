@@ -9,7 +9,7 @@
     - [How to import modules from different folders in python?](#how-to-import-modules-from-different-folders-in-python)
     - [How to open MS Store using Run?](#how-to-open-ms-store-using-run)
     - [How to clear cache and temp files in windows PC?](#how-to-clear-cache-and-temp-files-in-windows-pc)
-    - [How to install MySql in windows 10/11?](#how-to-install-mysql-in-windows-1011)
+    - [How to install MySql in windows 11?](#how-to-install-mysql-in-windows-11)
     - [How to create and activate virtual environment in python?](#how-to-create-and-activate-virtual-environment-in-python)
     - [What are the requirements needed to work with JavaScript in Windows PC?](#what-are-the-requirements-needed-to-work-with-javascript-in-windows-pc)
     - [How to connect WiFi FTP Server in Windows PC?](#how-to-connect-wifi-ftp-server-in-windows-pc)
@@ -17,6 +17,7 @@
     - [How to create / delete folder and files using windows command prompt?](#how-to-create--delete-folder-and-files-using-windows-command-prompt)
     - [How to rename files bulk in a folder using windows command prompt?](#how-to-rename-files-bulk-in-a-folder-using-windows-command-prompt)
     - [How to uninstall pip package?](#how-to-uninstall-pip-package)
+    - [How to Install PostgreSQL on Windows 11?](#)
 - [Helpful Shortcuts](#helpful-shortcuts)
     - [Editor Shortcuts](#editor-shortcuts)
 - [World of Open Source! (My favorite)](#world-of-open-source-my-favorite)
@@ -250,6 +251,8 @@ or
 ```cmd
 py -m pip uninstall <package_name>
 ```
+
+### How to Install PostgreSQL on Windows 11?
 
 # Helpful Shortcuts
 
