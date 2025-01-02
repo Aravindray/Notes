@@ -112,11 +112,11 @@ Step 7: click windows key + s > type clear location history > <red>click clear</
 Step 8: Go to CMD as administrator > <red>type ```ipconfig /flushDNS```</red> <br>
 Step 9: Advance --- Disk Cleanup > Select Disk > recommended to watch the video in youtube for reference
 
-### How to install MySql in windows 10/11?
+### How to install MySql in windows 11?
 
-First download and install [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+First Go to this website -> [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) and download X64 Architecture file which ends like this vc_redist.x64.exe and Install it.
 
-At this time my system is 64 bit and go to [MySql Webiste](https://dev.mysql.com/downloads/installer/)
+Then go to [MySql Webiste](https://dev.mysql.com/downloads/installer/) and download the installer (My system is 64 bit)
 
 Then download the Windows (x86, 32-bit), MSI Installer with maximum MB (the second one)
 
