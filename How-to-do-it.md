@@ -11,13 +11,15 @@
     - [How to clear cache and temp files in windows PC?](#how-to-clear-cache-and-temp-files-in-windows-pc)
     - [How to install MySql in windows 11?](#how-to-install-mysql-in-windows-11)
     - [How to create and activate virtual environment in python?](#how-to-create-and-activate-virtual-environment-in-python)
-    - [What are the requirements needed to work with JavaScript in Windows PC?](#what-are-the-requirements-needed-to-work-with-javascript-in-windows-pc)
+    - [How to Install NodeJS on Windows 11 PC?](#how-to-install-nodejs-on-windows-11-pc)
     - [How to connect WiFi FTP Server in Windows PC?](#how-to-connect-wifi-ftp-server-in-windows-pc)
     - [How to fetch all files name from a folder and store it as desire file format (ex. csv, xlsx, txt)](#how-to-fetch-all-files-name-from-a-folder-and-store-it-as-desire-file-format-ex-csv-xlsx-txt)
     - [How to create / delete folder and files using windows command prompt?](#how-to-create--delete-folder-and-files-using-windows-command-prompt)
     - [How to rename files bulk in a folder using windows command prompt?](#how-to-rename-files-bulk-in-a-folder-using-windows-command-prompt)
     - [How to uninstall pip package?](#how-to-uninstall-pip-package)
-    - [How to Install PostgreSQL on Windows 11?](#)
+    - [How to Install PostgreSQL on Windows 11?](#how-to-install-postgresql-on-windows-11)
+    - [How to Install WSL2 on Windows 11?](#how-to-install-wsl2-on-windows-11)
+    - [How to Install Docker on Windows 11?](#how-to-install-docker-on-windows-11)
 - [Helpful Shortcuts](#helpful-shortcuts)
     - [Editor Shortcuts](#editor-shortcuts)
 - [World of Open Source! (My favorite)](#world-of-open-source-my-favorite)
@@ -34,6 +36,7 @@
       - [Photoshop \& Illustrator](#photoshop--illustrator)
       - [3D Modeling](#3d-modeling)
       - [Video Editing](#video-editing)
+      - [Video Recording](#video-recording)
   - [Productivity](#productivity)
     - [Office Suites](#office-suites)
 
@@ -123,7 +126,7 @@ Then download the Windows (x86, 32-bit), MSI Installer with maximum MB (the seco
 
 Don't need to sign in just click download without sign in.
 
-Important Note: Don't Change Window Service Name default is MYSQL80, Again do not change the name
+**Important Note:** Don't Change Window Service Name - default is MYSQL80, Again do not change the name
 
 ### How to create and activate virtual environment in python?
 
@@ -146,7 +149,7 @@ From the above command an virtual environment is activated and you can notice it
 (helium) $>
 ``` 
 
-### What are the requirements needed to work with JavaScript in Windows PC?
+### How to Install NodeJS on Windows 11 PC?
 
 Check out this article [Install NodeJS on Windows](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-windows)
 
@@ -167,6 +170,8 @@ After that open PowerShell as Admin, and check the available version with this c
 5. Then enter the user name, and then enter the display name.
 6. A new window asks userid and password enter the password and save the password for future connections.
 7. Now ready to use.
+
+Note: Now a days I am using Google's QuickShare
 
 ### How to fetch all files name from a folder and store it as desire file format (ex. csv, xlsx, txt)
 
@@ -256,6 +261,10 @@ py -m pip uninstall <package_name>
 
 ### How to Install PostgreSQL on Windows 11?
 
+### How to Install WSL2 on Windows 11?
+
+### How to Install Docker on Windows 11?
+
 # Helpful Shortcuts
 
 ### Editor Shortcuts
@@ -320,8 +329,13 @@ Cursor preview - <img width="15" height="15" src="https://img.icons8.com/ios/50/
 
 - ?
 
+#### Video Recording
+
+- OBS Studio
+
 ## Productivity
 
 ### Office Suites
 
 - LibreOffice
+- WPS (freemium)
