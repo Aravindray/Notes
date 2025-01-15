@@ -265,6 +265,8 @@ py -m pip uninstall <package_name>
 
 ### How to Install Docker on Windows 11?
 
+### How to run JavaScript file in terminal using node?
+
 # Helpful Shortcuts
 
 ### Editor Shortcuts
