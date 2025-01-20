@@ -61,7 +61,11 @@ To add email
 ```git
 git config --global user.email "your_email"
 ```
+To verify
 
+```git
+git config --list
+```
 
 ### How to add date & time in command prompt or terminal in windows PC?
 
