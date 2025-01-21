@@ -20,6 +20,8 @@
     - [How to Install PostgreSQL on Windows 11?](#how-to-install-postgresql-on-windows-11)
     - [How to Install WSL2 on Windows 11?](#how-to-install-wsl2-on-windows-11)
     - [How to Install Docker on Windows 11?](#how-to-install-docker-on-windows-11)
+    - [How to run JavaScript file in terminal using node?](#how-to-run-javascript-file-in-terminal-using-node)
+    - [How to add Python profile in Windows 11 Terminal?](#how-to-add-python-profile-in-windows-11-terminal)
 - [Helpful Shortcuts](#helpful-shortcuts)
     - [Editor Shortcuts](#editor-shortcuts)
 - [World of Open Source! (My favorite)](#world-of-open-source-my-favorite)
@@ -71,7 +73,7 @@ git config --list
 
 This 3 arrows is called prompt >>> in python or c:\Users\name> in windows terminal. For more information type **prompt /?**.
 
-Once you decided the format we have to save it in registry editor. The format I chose is Date & Time | Path > 
+Once you decided the format we have to save it in registry editor. The format I chose is Date & Time | Path >
 
 
 ### How to download PC Battery Report in windows 10/11
@@ -83,7 +85,7 @@ powercfg /batteryreport /output "D:\battery_report.html"
 ```
 
 
-### How to turn off external devices wake up PC? 
+### How to turn off external devices wake up PC?
 
 open device manager select _HID Keyboard Device & ID-compliant mouse_ go to Properties then select Power Management tab and uncheck **Allow this device to wake the computer**
 
@@ -151,7 +153,7 @@ From the above command an virtual environment is activated and you can notice it
 - Preview
 ```cmd
 (helium) $>
-``` 
+```
 
 ### How to Install NodeJS on Windows 11 PC?
 
@@ -252,7 +254,7 @@ del filename.extension
 For example if an old file name is "sorry.mp3" and you want to rename it as "apology.mp3" using command prompt check below cmd
 
 ```cmd
-> rename "sorry.mp3" "apology.mp3" 
+> rename "sorry.mp3" "apology.mp3"
 or
 > ren "sorry.mp3" "apology.mp3"
 ```
@@ -270,6 +272,12 @@ py -m pip uninstall <package_name>
 ### How to Install Docker on Windows 11?
 
 ### How to run JavaScript file in terminal using node?
+
+### How to add Python profile in Windows 11 Terminal?
+
+It is just simple, check out this below image, __Note:__ Need python png image in 16x16 px
+
+![Image](https://github.com/Aravindray/Notes/blob/main/assets/How%20to%20add%20python%20in%20windows%2011%20terminal%20profile.png)
 
 # Helpful Shortcuts
 
