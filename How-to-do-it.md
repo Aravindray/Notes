@@ -22,10 +22,11 @@
     - [How to Install Docker on Windows 11?](#how-to-install-docker-on-windows-11)
     - [How to run JavaScript file in terminal using node?](#how-to-run-javascript-file-in-terminal-using-node)
     - [How to add Python profile in Windows 11 Terminal?](#how-to-add-python-profile-in-windows-11-terminal)
+    - [What to do when blue screen error occur?](#what-to-do-when-blue-screen-error-occur)
 - [Helpful Shortcuts](#helpful-shortcuts)
     - [Editor Shortcuts](#editor-shortcuts)
 - [World of Open Source! (My favorite)](#world-of-open-source-my-favorite)
-  - [Development and Programming](#development-and-programming)
+  - [Development \& Programming](#development--programming)
     - [Operating System](#operating-system)
     - [For Web Development](#for-web-development)
       - [Programming Languages](#programming-languages)
@@ -284,7 +285,7 @@ py -m pip uninstall <package_name>
 ### How to Install PostgreSQL on Windows 11?
 
 1. Go to [PostgreSQL download](https://www.postgresql.org/download/) page, select [OS](https://www.postgresql.org/download/windows/) (mine is Windows)
-2. Then select the [download the installer](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+2. Then select [download the installer](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 3. Then decide your version and architecture which your PC support when click the download icon a file like this _postgresql-17.2-3-windows-x64.exe_ will start downloading.
 4. Install it (while installing set your root user password)
 
@@ -308,6 +309,12 @@ It is just simple, check out this below image, __Note:__ Need python png image i
 
 ![Image](https://github.com/Aravindray/Notes/blob/main/assets/How%20to%20add%20python%20in%20windows%2011%20terminal%20profile.png)
 
+### What to do when blue screen error occur?
+
+**author_notes:** In Jan 17 or 18 2025, I faced 0xc000021a blue screen error, but SSD hard drive also crash.
+
+1. Steps yet to add!
+
 # Helpful Shortcuts
 
 ### Editor Shortcuts
@@ -320,7 +327,7 @@ Cursor preview - <img width="15" height="15" src="https://img.icons8.com/ios/50/
 
 # World of Open Source! (My favorite)
 
-## Development and Programming
+## Development & Programming
 
 ### Operating System
 
