@@ -87,7 +87,7 @@ powercfg /batteryreport /output "D:\battery_report.html"
 
 ### How to turn off external devices wake up PC?
 
-open device manager select _HID Keyboard Device & ID-compliant mouse_ go to Properties then select Power Management tab and uncheck **Allow this device to wake the computer**
+open device manager select _HID Keyboard Device & HID-compliant mouse_ go to Properties then select Power Management tab and uncheck **Allow this device to wake the computer**
 
 ### How to import modules from different folders in python?
 
