@@ -146,13 +146,27 @@ Above command created a new folder named as 'helium' in the selected location.
 
 - To Activate (for windows PC)
 ```command line interface
-$> helium\Scripts\activate.bat
+$> helium\Scripts\activate
 ```
 From the above command an virtual environment is activated and you can notice it before your terminal prompt.
 
 - Preview
 ```cmd
 (helium) $>
+```
+
+To deactivate just type **deactivate**
+
+- To deactivate
+
+**Before**
+```cmd
+(helium) $> deactivate
+```
+
+**after**
+```cmd
+$>
 ```
 
 ### How to Install NodeJS on Windows 11 PC?
@@ -167,6 +181,8 @@ then select nvm-setup.exe to download and then install it.
 
 After that open PowerShell as Admin, and check the available version with this command ```nvm list available``` and choose the LTS version you needed, then install the node js with this command ```nvm install <version>``` (replacing ```<version>``` with the **number**, ie: ```nvm install 12.14.0```). To confirm the download use this command to check the installed version number with this command ```nvm ls``` and check the 9th, 10th and 11th points from the above attached article.
 
+**author_note:** You can view the google drive video about how to install NodeJS
+
 ### How to connect WiFi FTP Server in Windows PC?
 
 1. Open File Explorer (with Windows + E)
@@ -177,12 +193,12 @@ After that open PowerShell as Admin, and check the available version with this c
 6. A new window asks userid and password enter the password and save the password for future connections.
 7. Now ready to use.
 
-Note: Now a days I am using Google's QuickShare
+**Note:** Now a days I am using _Google's QuickShare_
 
 ### How to fetch all files name from a folder and store it as desire file format (ex. csv, xlsx, txt)
 
 **By Using cmd prompt**
-1. Go to the folder where you want to file names from.
+1. Go to the folder where you want to file names from
 2. Open the cmd prompt from that folder
 3. Then type the below command
 ```cmd
@@ -267,11 +283,24 @@ py -m pip uninstall <package_name>
 
 ### How to Install PostgreSQL on Windows 11?
 
+1. Go to [PostgreSQL download](https://www.postgresql.org/download/) page, select [OS](https://www.postgresql.org/download/windows/) (mine is Windows)
+2. Then select the [download the installer](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+3. Then decide your version and architecture which your PC support when click the download icon a file like this _postgresql-17.2-3-windows-x64.exe_ will start downloading.
+4. Install it (while installing set your root user password)
+
+**author_note:** You can view the google drive video about how to install PostgreSQL
+
 ### How to Install WSL2 on Windows 11?
 
 ### How to Install Docker on Windows 11?
 
 ### How to run JavaScript file in terminal using node?
+
+Just like python file, you go the file location in command prompt and type below command
+
+```cmd
+$> node filename.js
+```
 
 ### How to add Python profile in Windows 11 Terminal?
 
