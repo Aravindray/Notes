@@ -117,6 +117,8 @@
 2. [1000+ Free Developer Certifications](https://www.freecodecamp.org/news/free-certificates)
 3. [860+ Free Online Programming & Computer Science Courses You Can Start This New Year](https://www.freecodecamp.org/news/free-online-programming-cs-courses)
 4. [Here are 850+ Ivy League Courses You Can Take Right Now for Free](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/)
+5. [120 Free Online Math Courses from the World’s Top Universities]([https://www.freecodecamp.org/news/free-certificates/](https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/))
+6. [The Top 100 Free University Courses of the Year (Ranked by Popularity)](https://www.freecodecamp.org/news/most-popular-free-online-courses/)
 
 # Roadmap
 
