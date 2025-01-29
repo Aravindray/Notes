@@ -114,6 +114,7 @@
 11. [MIT Open Course Wave](https://ocw.mit.edu/) [Notes: It also offer free books]
 12. [Microsoft Learn](https://learn.microsoft.com/en-us/) [Notes: I have signed in]
 13. [Class Central](https://www.classcentral.com/) [Notes: I have signed in]
+14. [web.dev](https://web.dev/) [Notes: I have signed in]
 
 ### List of some articles about free sources
 
