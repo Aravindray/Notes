@@ -18,14 +18,16 @@
       - [React](#react)
     - [Graphic Design](#graphic-design)
       - [Figma](#figma)
-    - [Project | Workout | Upskill](#project--workout--upskill)
   - [Backend](#backend)
     - [Basic](#basic-1)
       - [Python](#python)
     - [Database](#database)
       - [PostgreSQL](#postgresql)
+      - [MySQL](#mysql)
+      - [MongoDB](#mongodb)
     - [Frameworks](#frameworks-1)
       - [Django](#django)
+  - [Project | Workout | Upskill](#project--workout--upskill)
 - [Extra](#extra)
     - [Want to learn Math?](#want-to-learn-math)
 
@@ -51,27 +53,28 @@
 
 ### Open source books I own!
 
-| Title                                | Level        | Programming Language | Topic                       | Did I read it? | Recommendation | Notes                                                                                                                         |
-| ------------------------------------ | ------------ | -------------------- | --------------------------- | -------------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| Blender by Wiki books                | Don't Know   | -                    | Blender                     | No             | -              | -                                                                                                                             |
-| Database Design 2E                   | Beginner     | -                    | Database                    | No             | -              | -                                                                                                                             |
-| Database Systems for Management E3   | Don't Know   | -                    | Database                    | No             | -              | -                                                                                                                             |
-| Eloquent JavaScript E4               | Beginner     | JavaScript           | Fundamental to Intermediate | Not Yet        | ⭐⭐⭐⭐⭐          | -                                                                                                                             |
-| Evidence-based Software Engineering  | Don't Know   | -                    | -                           | No             | -              | -                                                                                                                             |
-| Introduction to Networking           | Beginner     | -                    | Networking                  | No             | -              | -                                                                                                                             |
-| Learning Patterns                    | Don't Know   | JavaScript & React   | -                           | No             | -              | -                                                                                                                             |
-| Mastering Python Design Patterns E1  | Intermediate | Python               | OOPS & Design Pattern       | No             | -              | Packt Open Source Book, Latest is [E3](https://www.packtpub.com/en-us/product/mastering-python-design-patterns-9781837637652) |
-| MongoDB Notes                        | Don't Know   | MongoDB              | NoSQL Database              | No             | -              | This is a succinctly Notes                                                                                                    |
-| MySQL Notes                          | Don't Know   | MySQL                | RDBMS                       | No             | -              | This is a succinctly Notes                                                                                                    |
-| PostgreSQL Notes                     | Don't Know   | PostgreSQL           | RDBMS                       | No             | -              | This is a succinctly Notes                                                                                                    |
-| Python Notes                         | Don't Know   | Python               | -                           | No             | -              | This is a succinctly Notes                                                                                                    |
-| ReactJS Notes                        | Don't Know   | ReactJS              | -                           | No             | -              | This is a succinctly Notes                                                                                                    |
-| The Missing Link                     | Don't Know   | -                    | Networking                  | No             | -              | -                                                                                                                             |
-| Think Complexity E2                  | Don't Know   | Python               | -                           | No             | -              | For Latest check [Green Tea Press](https://greenteapress.com/wp/)                                                             |
-| Think Data Structures in Java V1.0.0 | Don't Know   | Java                 | -                           | No             | -              | Python version also available in [Green Tea Press](https://allendowney.github.io/DSIRP/)                                      |
-| Think OS V0.7.4                      | Don't Know   | -                    | -                           | No             | -              | For Latest check [Green Tea Press](https://greenteapress.com/wp/)                                                             |
-| Think Python E3                      | Don't Know   | Python               | -                           | No             | -              | For Latest check [Green Tea Press](https://greenteapress.com/wp/)                                                             |
-| TypeScript Notes                     | Don't Know   | TypeScript           | -                           | No             | -              | This is a succinctly Notes                                                                                                    |
+| Title                                | Level        | Programming Language | Topic                       | Did I read it? | Recommendation | Notes                                                                                                                                                           |
+| ------------------------------------ | ------------ | -------------------- | --------------------------- | -------------- | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Blender by Wiki books                | Don't Know   | -                    | Blender                     | No             | -              | -                                                                                                                                                               |
+| Database Design 2E                   | Beginner     | -                    | Database                    | No             | -              | -                                                                                                                                                               |
+| Database Systems for Management E3   | Don't Know   | -                    | Database                    | No             | -              | -                                                                                                                                                               |
+| Eloquent JavaScript E4               | Beginner     | JavaScript           | Fundamental to Intermediate | Not Yet        | ⭐⭐⭐⭐⭐          | -                                                                                                                                                               |
+| Evidence-based Software Engineering  | Don't Know   | -                    | -                           | No             | -              | -                                                                                                                                                               |
+| Introduction to Networking           | Beginner     | -                    | Networking                  | No             | -              | -                                                                                                                                                               |
+| Learning Patterns                    | Don't Know   | JavaScript & React   | -                           | No             | -              | -                                                                                                                                                               |
+| Mastering Python Design Patterns E1  | Intermediate | Python               | OOPS & Design Pattern       | No             | -              | Packt Open Source Book, Latest is [E3](https://www.packtpub.com/en-us/product/mastering-python-design-patterns-9781837637652)                                   |
+| MongoDB Notes                        | Don't Know   | MongoDB              | NoSQL Database              | No             | -              | This is a succinctly Notes                                                                                                                                      |
+| MySQL Notes                          | Don't Know   | MySQL                | RDBMS                       | No             | -              | This is a succinctly Notes                                                                                                                                      |
+| PostgreSQL Notes                     | Don't Know   | PostgreSQL           | RDBMS                       | No             | -              | This is a succinctly Notes                                                                                                                                      |
+| Python Notes                         | Don't Know   | Python               | -                           | No             | -              | This is a succinctly Notes                                                                                                                                      |
+| ReactJS Notes                        | Don't Know   | ReactJS              | -                           | No             | -              | This is a succinctly Notes                                                                                                                                      |
+| The Missing Link                     | Don't Know   | -                    | Networking                  | No             | -              | -                                                                                                                                                               |
+| Think Complexity E2                  | Don't Know   | Python               | -                           | No             | -              | For Latest check [Green Tea Press](https://greenteapress.com/wp/)                                                                                               |
+| Think Data Structures in Java V1.0.0 | Don't Know   | Java                 | -                           | No             | -              | Python version also available in [Green Tea Press](https://allendowney.github.io/DSIRP/)                                                                        |
+| Think OS V0.7.4                      | Don't Know   | -                    | -                           | No             | -              | For Latest check [Green Tea Press](https://greenteapress.com/wp/)                                                                                               |
+| Think Python E3                      | Don't Know   | Python               | -                           | No             | -              | For Latest check [Green Tea Press](https://greenteapress.com/wp/)                                                                                               |
+| TypeScript Notes                     | Don't Know   | TypeScript           | -                           | No             | -              | This is a succinctly Notes                                                                                                                                      |
+| Clean Architectures in Python E2     | Don't Know   | Python               | -                           | No             | -              | [Online Official Version](https://www.thedigitalcatbooks.com/pycabook-introduction/) at [The Digital Cat Books](https://www.thedigitalcatonline.com/index.html) |
 
 ## Free Resources
 
@@ -94,6 +97,7 @@
 
 1. [Packt](https://www.packtpub.com/en-in) [Notes: Signed in with google]
 2. [Manning](https://www.manning.com/) [Notes: Signed in with google (It's just a small part of full book)]
+3. [Leanpub](https://leanpub.com/) [Notes: Signed in with gmail (Some books are free)]
 
 ### Free and open source websites to learn
 
@@ -151,12 +155,6 @@
 
 1. Available in Local Disk [Status: Yet to Complete | Notes: A colleague of mine share me the video to learn]
 
-### Project | Workout | Upskill
-
-1. [CSSBattle](https://cssbattle.dev/) [Notes: for Workout]
-2. [SuperSimpleDev - HTML & CSS](https://youtu.be/G3e-cpL7ofc?si=_HUmOT5nyIUCzSvb) [Status: Yet to Watch | Notes: for Projects]
-3. [SuperSimpleDev - JavaScript](https://youtu.be/EerdGm-ehJQ?si=vUNV5R50UdUt6iKx) [Status: Yet to Watch | Notes: for Projects]
-
 ## Backend
 
 ### Basic
@@ -181,6 +179,16 @@
 #### Django
 
 1. [Django 5 by Example](https://amzn.in/d/1zkDF3c) [Status: Reading... | Notes: I bought it ₹1,500]
+
+## Project | Workout | Upskill
+
+1. [CSSBattle](https://cssbattle.dev/) [Notes: for Workout]
+2. [SuperSimpleDev - HTML & CSS](https://youtu.be/G3e-cpL7ofc?si=_HUmOT5nyIUCzSvb) [Status: Yet to Watch | Notes: for Projects]
+3. [SuperSimpleDev - JavaScript](https://youtu.be/EerdGm-ehJQ?si=vUNV5R50UdUt6iKx) [Status: Yet to Watch | Notes: for Projects]
+4. [Codewars](https://www.codewars.com/) [Notes: for Workout]
+5. [CodePen](https://codepen.io/trending) [Notes: for Workout]
+6. [Penpot](https://penpot.app/) [Notes: for Project]
+7. [Figma](https://www.figma.com/) [Notes: for Project]
 
 # Extra
 
