@@ -92,6 +92,7 @@
 10. [Free Online Programming Books](https://www.onlineprogrammingbooks.com/) legally
 11. [The Insane app](https://www.theinsaneapp.com/)
 12. [Open book project](https://openbookproject.net/index.php)
+13. [openstax](https://openstax.org/) by [RICE University](https://www.rice.edu/)
 
 ### Open Sources Books from Famous Book Publishing Companies
 
@@ -115,6 +116,7 @@
 12. [Microsoft Learn](https://learn.microsoft.com/en-us/) [Notes: I have signed in]
 13. [Class Central](https://www.classcentral.com/) [Notes: I have signed in]
 14. [web.dev](https://web.dev/) [Notes: I have signed in]
+15. [DEW](https://dev.to/) [Notes: I have signed in]
 
 ### List of some articles about free sources
 
