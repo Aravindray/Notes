@@ -4,6 +4,9 @@
     - [Books I own and read!](#books-i-own-and-read)
     - [Open source books I own!](#open-source-books-i-own)
   - [Free Resources](#free-resources)
+    - [Learn Topic Wise](#learn-topic-wise)
+      - [Design Pattern](#design-pattern)
+      - [HTML \& CSS](#html--css)
     - [Free and open source books to download and read online](#free-and-open-source-books-to-download-and-read-online)
     - [Open Sources Books from Famous Book Publishing Companies](#open-sources-books-from-famous-book-publishing-companies)
     - [Free and open source websites to learn](#free-and-open-source-websites-to-learn)
@@ -90,6 +93,16 @@
 
 ## Free Resources
 
+### Learn Topic Wise
+
+#### Design Pattern
+
+1. [Python Design Patterns](https://python-patterns.guide/)
+
+#### HTML & CSS
+
+1. Learn to Code [beginner](https://learn.shayhowe.com/html-css/) and [Advance](https://learn.shayhowe.com/advanced-html-css/) HTML & CSS by [Shay](https://shayhowe.com/)
+
 ### Free and open source books to download and read online
 
 1. [Green Tea Press](https://greenteapress.com/wp/) by Allen Downey
@@ -100,12 +113,12 @@
 6. [Collection of Course Materials for Educators](https://collection.bccampus.ca/) by [BCcampus Open Publishing](https://opentextbc.ca/) Open Textbooks Adapted and Created by BC Faculty
 7. [Open Textbook Library](https://open.umn.edu/opentextbooks/) is supported by the [Open Education Network](https://open.umn.edu/oen)
 8. [Succinctly Series:Free Access to 200+ Ebooks](https://www.syncfusion.com/succinctly-free-ebooks/) just intro/basic book only
-9. Learn to Code [beginner](https://learn.shayhowe.com/html-css/) and [Advance](https://learn.shayhowe.com/advanced-html-css/) HTML & CSS by [Shay](https://shayhowe.com/)
-10. [Info Books](https://www.infobooks.org/)
-11. [Free Online Programming Books](https://www.onlineprogrammingbooks.com/) legally
-12. [The Insane app](https://www.theinsaneapp.com/)
-13. [Open book project](https://openbookproject.net/index.php)
-14. [openstax](https://openstax.org/) by [RICE University](https://www.rice.edu/)
+9.  [Info Books](https://www.infobooks.org/)
+10. [Free Online Programming Books](https://www.onlineprogrammingbooks.com/) legally
+11. [The Insane app](https://www.theinsaneapp.com/)
+12. [Open book project](https://openbookproject.net/index.php)
+13. [openstax](https://openstax.org/) by [RICE University](https://www.rice.edu/)
+14. [dbooks](https://www.dbooks.org/)
 
 ### Open Sources Books from Famous Book Publishing Companies
 
@@ -198,13 +211,13 @@
 
 ## Project | Workout | Upskill
 
-1. [CSSBattle](https://cssbattle.dev/) [Notes: for Workout]
+1. [CSSBattle](https://cssbattle.dev/) [Notes: for Workout / Logged in using Google]
 2. [SuperSimpleDev - HTML & CSS](https://youtu.be/G3e-cpL7ofc?si=_HUmOT5nyIUCzSvb) [Status: Yet to Watch | Notes: for Projects]
 3. [SuperSimpleDev - JavaScript](https://youtu.be/EerdGm-ehJQ?si=vUNV5R50UdUt6iKx) [Status: Yet to Watch | Notes: for Projects]
-4. [Codewars](https://www.codewars.com/) [Notes: for Workout]
-5. [CodePen](https://codepen.io/trending) [Notes: for Workout]
-6. [Penpot](https://penpot.app/) [Notes: for Project]
-7. [Figma](https://www.figma.com/) [Notes: for Project]
+4. [Codewars](https://www.codewars.com/) [Notes: for Workout / Logged in using Google]
+5. [CodePen](https://codepen.io/trending) [Notes: for Workout / Logged in using Google]
+6. [Penpot](https://penpot.app/) [Notes: for Project / Logged in using Google]
+7. [Figma](https://www.figma.com/) [Notes: for Project / Logged in using Google]
 8. [Coding Game](https://www.codingame.com/) [Notes: for Workout / Logged in using Google]
 
 # Extra
