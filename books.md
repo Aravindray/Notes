@@ -204,6 +204,7 @@
 5. [CodePen](https://codepen.io/trending) [Notes: for Workout]
 6. [Penpot](https://penpot.app/) [Notes: for Project]
 7. [Figma](https://www.figma.com/) [Notes: for Project]
+8. [Coding Game](https://www.codingame.com/) [Notes: for Workout / Logged in using Google]
 
 # Extra
 
