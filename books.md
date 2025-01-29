@@ -30,6 +30,18 @@
   - [Project | Workout | Upskill](#project--workout--upskill)
 - [Extra](#extra)
     - [Want to learn Math?](#want-to-learn-math)
+    - [Free edX Courses](#free-edx-courses)
+    - [Free Coursera Courses](#free-coursera-courses)
+      - [Important Courses](#important-courses)
+    - [My Bachelor of Engineering in Electronics and Communication Engineering Subjects](#my-bachelor-of-engineering-in-electronics-and-communication-engineering-subjects)
+        - [Semester I](#semester-i)
+        - [Semester II](#semester-ii)
+        - [Semester III](#semester-iii)
+        - [Semester IV](#semester-iv)
+        - [Semester V](#semester-v)
+        - [Semester VI](#semester-vi)
+        - [Semester VII](#semester-vii)
+        - [Semester VIII](#semester-viii)
 
 <hr>
 <hr>
@@ -116,7 +128,7 @@
 12. [Microsoft Learn](https://learn.microsoft.com/en-us/) [Notes: I have signed in]
 13. [Class Central](https://www.classcentral.com/) [Notes: I have signed in]
 14. [web.dev](https://web.dev/) [Notes: I have signed in]
-15. [DEW](https://dev.to/) [Notes: I have signed in]
+15. [DEV](https://dev.to/) [Notes: I have signed in]
 
 ### List of some articles about free sources
 
@@ -223,3 +235,159 @@
    - Abstract Algebra – Dummit and Foote
    - Discrete Math and Applications – Kenneth Rosen
    - How To Think Like A Mathematician - Houston
+
+### Free edX Courses
+
+1. https://www.edx.org/course/embedded-systems-shape-the-world-microcontroller-i
+2. https://www.edx.org/course/introduction-to-the-internet-of-things
+3. https://www.edx.org/course/a-system-view-of-communications-from-signals-to-pa
+4. https://www.edx.org/course/introduction-to-the-internet-of-things-iot
+5. https://www.edx.org/course/iot-sensors-and-devices
+6. https://www.edx.org/learn/circuits/massachusetts-institute-of-technology-circuits-and-electronics-1-basic-circuit-analysis
+7. https://www.edx.org/course/embedded-systems-essentials-with-arm-getting-started
+8. https://www.edx.org/course/programming-for-everybody-getting-started-with-pyt
+9. https://www.edx.org/course/scripting-and-programming-foundations-course-v1wguxitec21032t2020b
+10. https://www.edx.org/course/steps-in-japanese-for-beginners2-part1-course-v1wasedaxsjb2-1101x3t2020
+11. https://www.edx.org/course/creating-virtual-reality-vr-apps-2
+12. https://www.edx.org/course/embedded-systems-essentials-with-arm-getting-started-course-v1armeducationedarmxes16x3t2020
+13. https://www.edx.org/course/electronic-optical-and-magnetic-properties-of-materials-2
+14. https://www.edx.org/course/batteries-fuel-cells-and-their-role-in-modern-society-course-v1urfuxbatfuelc20173t2020
+15. https://www.edx.org/course/introduction-to-java-programming-part-2-course-v1hkustxcomp1022x3t2020
+16. https://www.edx.org/course/ap-physics-1-challenging-concepts-course-v1davidsonnextphy1_apccx3t2020
+17. https://www.edx.org/course/c-programming-using-linux-tools-and-libraries
+18. https://www.edx.org/course/from-atoms-to-stars-how-physics-explains-our-world
+19. https://www.edx.org/course/principle-of-semiconductor-devices-part-i-semiconductors-pn-junctions-and-bipolar-junction-transistors-course-v1hkustxelec35001x2t2020a
+20. https://www.edx.org/course/iot-networks-and-protocols-course-v1curtinxiot3x3t2020
+21. https://www.edx.org/course/question-everything-scientific-thinking-in-real-life-3
+22. https://www.edx.org/course/incorporating-renewable-energy-in-electricity-grids-3
+23. https://www.edx.org/course/more-fun-with-prime-numbers-course-v1kyotoux011x1t2020a
+24. https://www.edx.org/course/sign-language-factors-contributing-to-natural-learning
+25. https://www.edx.org/course/iot-system-architecture-design-and-evaluation-4
+26. https://www.edx.org/course/electrical-optical-magnetic-materials-and-devices
+27. https://www.edx.org/course/c-programming-advanced-data-types-2
+
+### Free Coursera Courses
+
+1. https://www.coursera.org/specializations/improve-english
+2. https://www.coursera.org/learn/stem
+3. https://www.coursera.org/learn/nanotechnology1
+4. https://www.coursera.org/learn/making-architecturewt
+5. https://www.coursera.org/learn/algorithms-part1
+6. https://www.coursera.org/learn/learn-to-program
+7. https://www.coursera.org/learn/exploring-renewable-energy
+8. https://www.coursera.org/learn/nanotechnology2
+9. https://www.coursera.org/learn/skills-management
+10. https://www.coursera.org/learn/converting-challenges-into-opportunities
+11. https://www.coursera.org/learn/career-advancement
+12. https://www.coursera.org/learn/tricky-american-english-pronunciation
+13. https://www.coursera.org/learn/introduction-embedded-systems
+14. https://www.coursera.org/learn/embedded-software-hardware
+15. https://www.coursera.org/learn/making-architecture
+16. https://www.coursera.org/learn/career-advancement
+17. https://www.coursera.org/learn/how-to-write-a-resume
+18. https://www.coursera.org/learn/creative-problem-solving
+19. https://www.coursera.org/learn/negotiation-skills
+20. https://www.coursera.org/learn/programming-languages-part-b
+21. https://www.coursera.org/specializations/c-programming
+22. https://www.coursera.org/learn/introduction-embedded-systems
+23. https://www.coursera.org/learn/comparch
+24. https://www.coursera.org/learn/3d-cad-fundamental
+25. https://www.coursera.org/learn/arduino
+
+#### Important Courses
+
+1. https://www.coursera.org/specializations/renewable-energy
+2. https://www.coursera.org/learn/solar-energy-and-electrical-system-design
+3. https://www.coursera.org/learn/solar-energy-systems
+4. https://www.coursera.org/learn/exploring-renewable-energy
+5. https://www.coursera.org/learn/photovoltaic-systems
+
+### My Bachelor of Engineering in Electronics and Communication Engineering Subjects
+
+##### Semester I
+
+1. ENGINEERING MATHEMATICS I
+2. ENGINEERING PHYSICS
+3. ENGINEERING CHEMISTRY
+4. ENGLISH FOR ENGINEERS I
+5. COMPUTER PROGRAMMING
+6. ELECTRON DEVICES
+7. HUMAN VALUES AND HEALTHY PRACTICES
+8. PHYSICAL SCIENCE LAB - I
+9. COMPUTER PROGRAMMING LAB
+10. ENGINEERING PRACTICES LABORATORY
+
+##### Semester II
+
+1. ENGINEERING MATHEMATICS-II
+2. PHYSICS OF MATERIALS
+3. ENVIRONMENTAL SCIENCES
+4. ENGLISH FOR ENGINEERS - II
+5. ENGINEERING GRAPHICS
+6. CIRCUIT THEORY
+7. ESSENTIAL LIFE SKILLS
+8. PHYSICAL SCIENCES LAB - II
+9. ELECTRIC CIRCUITS AND ELECTRON DEVICES LAB
+
+##### Semester III
+
+1. NUMERICAL METHODS FOR ELECTRONICS ENGINEERS
+2. DIGITAL ELECTRONICS
+3. SIGNALS AND SYSTEMS
+4. ELECTRONIC CIRCUITS
+5. SEMICONDUCTOR FABRICATION TECHNOLOGY
+6. DATA STRUCTURES AND ALGORITHMS
+7. ELECTRONIC CIRCUITS LAB
+8. DATA STRUCTURES AND ALGORITHMS LAB
+
+##### Semester IV
+
+1. PROBABILITY AND RANDOM PROCESSES
+2. ELECTRO MAGNETIC FIELDS
+3. CONTROL SYSTEMS
+4. MEASUREMENT AND INSTRUMENTATION
+5. LINEAR INTEGRATED CIRCUITS
+6. OBJECT ORIENTED PROGRAMMING AND STRUCTURES
+7. DIGITAL ELECTRONICS LAB
+8. LINEAR INTEGRATED CIRCUITS LAB
+
+##### Semester V
+
+1. ANALOG COMMUNICATION
+2. DIGITAL SIGNAL PROCESSING
+3. DATA COMMUNICATION NETWORKS
+4. MICROPROCESSOR AND MICROCONTROLLER : CONCEPTS AND APPLICATIONS
+5. TRANSMISSION LINES AND WAVEGUIDES
+6. PE - I :MEDICAL ELECTRONICS
+7. DIGITAL SIGNAL PROCESSING LABORATORY
+8. MICROPROCESSOR AND MICROCONTROLLER LABORATORY
+
+##### Semester VI
+
+1. VLSI DESIGN
+2. DIGITAL COMMUNICATION
+3. DIGITAL IMAGE PROCESSING
+4. ANTENNA AND WAVE PROPAGATION
+5. PE - II : WIRELESS SENSOR NETWORKS
+6. OE - I : INDUSTRIAL SAFETY AND ENVIRONMENT
+7. ANALOG AND DIGITAL COMMUNICATION LAB
+8. VLSI DESIGN LAB
+9. MINI PROJECT
+
+##### Semester VII
+
+1. EMBEDDED AND REAL TIME SYSTEMS
+2. WIRELESS COMMUNICATION
+3. MICROWAVE ENGINEERING
+4. PE - III : FIBER OPTIC COMMUNICATION
+5. PE - IV : ASIC DESIGN
+6. OE - II :RENEWABLE ENERGY SOURCES
+7. EMBEDDED SYSTEMS LAB
+8. OPTICAL COMMUNICATION AND MICROWAVE LAB
+9. TECHNICAL SEMINAR / IMPLANT TRAINING / CERTIFICATION COURSE / INTERNSHIP
+
+##### Semester VIII
+
+1. PE - V INDUSTRIAL AUTOMATION
+2. PE - VI INTELLECTUAL PROPERTY RIGHTS AND INNOVATIONS
+3. PROJECT WORK
