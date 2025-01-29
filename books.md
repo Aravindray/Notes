@@ -96,15 +96,16 @@
 2. Free programming books by [Free Ebook Foundation](https://ebookfoundation.github.io/free-programming-books/)
 3. [Free Computer Books](https://freecomputerbooks.com/) download only creative common license books
 4. Learn [Eloquent Javascript](https://eloquentjavascript.net/)
-5. [Collection of Course Materials for Educators](https://collection.bccampus.ca/) by [BCcampus Open Publishing](https://opentextbc.ca/) Open Textbooks Adapted and Created by BC Faculty
-6. [Open Textbook Library](https://open.umn.edu/opentextbooks/) is supported by the [Open Education Network](https://open.umn.edu/oen)
-7. [Succinctly Series:Free Access to 200+ Ebooks](https://www.syncfusion.com/succinctly-free-ebooks/) just intro/basic book only
-8. Learn to Code [beginner](https://learn.shayhowe.com/html-css/) and [Advance](https://learn.shayhowe.com/advanced-html-css/) HTML & CSS by [Shay](https://shayhowe.com/)
-9. [Info Books](https://www.infobooks.org/)
-10. [Free Online Programming Books](https://www.onlineprogrammingbooks.com/) legally
-11. [The Insane app](https://www.theinsaneapp.com/)
-12. [Open book project](https://openbookproject.net/index.php)
-13. [openstax](https://openstax.org/) by [RICE University](https://www.rice.edu/)
+5. To glance JavaScript from [JavaScript Info](https://javascript.info/)
+6. [Collection of Course Materials for Educators](https://collection.bccampus.ca/) by [BCcampus Open Publishing](https://opentextbc.ca/) Open Textbooks Adapted and Created by BC Faculty
+7. [Open Textbook Library](https://open.umn.edu/opentextbooks/) is supported by the [Open Education Network](https://open.umn.edu/oen)
+8. [Succinctly Series:Free Access to 200+ Ebooks](https://www.syncfusion.com/succinctly-free-ebooks/) just intro/basic book only
+9. Learn to Code [beginner](https://learn.shayhowe.com/html-css/) and [Advance](https://learn.shayhowe.com/advanced-html-css/) HTML & CSS by [Shay](https://shayhowe.com/)
+10. [Info Books](https://www.infobooks.org/)
+11. [Free Online Programming Books](https://www.onlineprogrammingbooks.com/) legally
+12. [The Insane app](https://www.theinsaneapp.com/)
+13. [Open book project](https://openbookproject.net/index.php)
+14. [openstax](https://openstax.org/) by [RICE University](https://www.rice.edu/)
 
 ### Open Sources Books from Famous Book Publishing Companies
 
