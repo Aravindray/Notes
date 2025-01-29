@@ -112,13 +112,14 @@
 5. To glance JavaScript from [JavaScript Info](https://javascript.info/)
 6. [Collection of Course Materials for Educators](https://collection.bccampus.ca/) by [BCcampus Open Publishing](https://opentextbc.ca/) Open Textbooks Adapted and Created by BC Faculty
 7. [Open Textbook Library](https://open.umn.edu/opentextbooks/) is supported by the [Open Education Network](https://open.umn.edu/oen)
-8. [Succinctly Series:Free Access to 200+ Ebooks](https://www.syncfusion.com/succinctly-free-ebooks/) just intro/basic book only
+8. [Succinctly Series: Free Access to 200+ Ebooks](https://www.syncfusion.com/succinctly-free-ebooks/) just intro/basic book only
 9.  [Info Books](https://www.infobooks.org/)
 10. [Free Online Programming Books](https://www.onlineprogrammingbooks.com/) legally
 11. [The Insane app](https://www.theinsaneapp.com/)
 12. [Open book project](https://openbookproject.net/index.php)
 13. [openstax](https://openstax.org/) by [RICE University](https://www.rice.edu/)
 14. [dbooks](https://www.dbooks.org/)
+15. [Programming Notes for Professionals books by Goalkicker](https://goalkicker.com/)
 
 ### Open Sources Books from Famous Book Publishing Companies
 
