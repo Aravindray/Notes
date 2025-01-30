@@ -8,6 +8,8 @@
       - [Design Pattern](#design-pattern)
       - [Data Analysis](#data-analysis)
       - [HTML \& CSS](#html--css)
+      - [PostgreSQL](#postgresql)
+      - [MySQL](#mysql)
     - [Free and open source books to download and read online](#free-and-open-source-books-to-download-and-read-online)
     - [Open Sources Books from Famous Book Publishing Companies](#open-sources-books-from-famous-book-publishing-companies)
     - [Free and open source websites to learn](#free-and-open-source-websites-to-learn)
@@ -26,8 +28,8 @@
     - [Basic](#basic-1)
       - [Python](#python)
     - [Database](#database)
-      - [PostgreSQL](#postgresql)
-      - [MySQL](#mysql)
+      - [PostgreSQL](#postgresql-1)
+      - [MySQL](#mysql-1)
       - [MongoDB](#mongodb)
     - [Frameworks](#frameworks-1)
       - [Django](#django)
@@ -98,7 +100,8 @@
 
 #### Design Pattern
 
-1. [Python Design Patterns](https://python-patterns.guide/)
+1. [Python Design Patterns](https://python-patterns.guide/) by Brandon Rhodes
+2. [Design Patterns Python](https://refactoring.guru/design-patterns/python) by Refactoring
 
 #### Data Analysis
 
@@ -107,6 +110,18 @@
 #### HTML & CSS
 
 1. Learn to Code [beginner](https://learn.shayhowe.com/html-css/) and [Advance](https://learn.shayhowe.com/advanced-html-css/) HTML & CSS by [Shay](https://shayhowe.com/)
+
+#### PostgreSQL
+
+**Compare All Choose the right curriculum**
+
+1. [PostgreSQL Tutorial](https://neon.tech/postgresql/tutorial) by Neon
+2. [PostgreSQL Tutorial](https://www.w3resource.com/PostgreSQL/tutorial.php) by w3resource
+3. [Basic PostgreSQL](https://hasura.io/learn/database/postgresql/introduction/) by Hasura
+
+#### MySQL
+
+1. [Basic MySQL](https://hasura.io/learn/database/mysql/introduction/) by Hasura
 
 ### Free and open source books to download and read online
 
@@ -150,6 +165,7 @@
 14. [web.dev](https://web.dev/) [Notes: I have signed in]
 15. [DEV](https://dev.to/) [Notes: I have signed in]
 16. [W3Schools](https://www.w3schools.com/) [Notes: I have signed in]
+17. [w3resource](https://w3resource.com/index.php)
 
 ### List of some articles about free sources
 
