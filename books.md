@@ -33,7 +33,7 @@
       - [MongoDB](#mongodb)
     - [Frameworks](#frameworks-1)
       - [Django](#django)
-  - [Project | Workout | Upskill](#project--workout--upskill)
+  - [Practice](#practice)
 - [Extra](#extra)
     - [Want to learn Math?](#want-to-learn-math)
     - [Free edX Courses](#free-edx-courses)
@@ -232,16 +232,20 @@
 
 1. [Django 5 by Example](https://amzn.in/d/1zkDF3c) [Status: Reading... | Notes: I bought it ₹1,500]
 
-## Project | Workout | Upskill
+## Practice
 
-1. [CSSBattle](https://cssbattle.dev/) [Notes: for Workout / Logged in using Google]
-2. [SuperSimpleDev - HTML & CSS](https://youtu.be/G3e-cpL7ofc?si=_HUmOT5nyIUCzSvb) [Status: Yet to Watch | Notes: for Projects]
-3. [SuperSimpleDev - JavaScript](https://youtu.be/EerdGm-ehJQ?si=vUNV5R50UdUt6iKx) [Status: Yet to Watch | Notes: for Projects]
-4. [Codewars](https://www.codewars.com/) [Notes: for Workout / Logged in using Google]
-5. [CodePen](https://codepen.io/trending) [Notes: for Workout / Logged in using Google]
-6. [Penpot](https://penpot.app/) [Notes: for Project / Logged in using Google]
-7. [Figma](https://www.figma.com/) [Notes: for Project / Logged in using Google]
-8. [Coding Game](https://www.codingame.com/) [Notes: for Workout / Logged in using Google]
+1. [CSSBattle](https://cssbattle.dev/) [Notes: Logged in using Google]
+2. [SuperSimpleDev - HTML & CSS](https://youtu.be/G3e-cpL7ofc?si=_HUmOT5nyIUCzSvb) [Status: Yet to Watch]
+3. [SuperSimpleDev - JavaScript](https://youtu.be/EerdGm-ehJQ?si=vUNV5R50UdUt6iKx) [Status: Yet to Watch]
+4. [Codewars](https://www.codewars.com/) [Notes: Logged in using Google]
+5. [CodePen](https://codepen.io/trending) [Notes: Logged in using Google]
+6. [Penpot](https://penpot.app/) [Notes: Logged in using Google]
+7. [Figma](https://www.figma.com/) [Notes: Logged in using Google]
+8. [Coding Game](https://www.codingame.com/) [Notes: Logged in using Google]
+9. [Frontend Practice](https://www.frontendpractice.com/)
+10. [Frontend Mentor](https://www.frontendmentor.io/) (Notes: Logged in using Github)
+11. [Style Stage](https://stylestage.dev/)
+12. [First Timers Only](https://www.firsttimersonly.com/) no idea, need to explore more
 
 # Extra
 
