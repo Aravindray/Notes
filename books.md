@@ -6,6 +6,7 @@
   - [Free Resources](#free-resources)
     - [Learn Topic Wise](#learn-topic-wise)
       - [Design Pattern](#design-pattern)
+      - [Data Analysis](#data-analysis)
       - [HTML \& CSS](#html--css)
     - [Free and open source books to download and read online](#free-and-open-source-books-to-download-and-read-online)
     - [Open Sources Books from Famous Book Publishing Companies](#open-sources-books-from-famous-book-publishing-companies)
@@ -99,6 +100,10 @@
 
 1. [Python Design Patterns](https://python-patterns.guide/)
 
+#### Data Analysis
+
+1. [Python for Data Analysis, 3E](https://wesmckinney.com/book/) by Wes McKinney
+
 #### HTML & CSS
 
 1. Learn to Code [beginner](https://learn.shayhowe.com/html-css/) and [Advance](https://learn.shayhowe.com/advanced-html-css/) HTML & CSS by [Shay](https://shayhowe.com/)
@@ -144,6 +149,7 @@
 13. [Class Central](https://www.classcentral.com/) [Notes: I have signed in]
 14. [web.dev](https://web.dev/) [Notes: I have signed in]
 15. [DEV](https://dev.to/) [Notes: I have signed in]
+16. [W3Schools](https://www.w3schools.com/) [Notes: I have signed in]
 
 ### List of some articles about free sources
 
@@ -309,6 +315,8 @@
 23. https://www.coursera.org/learn/comparch
 24. https://www.coursera.org/learn/3d-cad-fundamental
 25. https://www.coursera.org/learn/arduino
+26. https://www.coursera.org/professional-certificates/meta-back-end-developer
+27. https://www.coursera.org/learn/introduction-to-databases
 
 #### Important Courses
 

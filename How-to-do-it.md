@@ -40,6 +40,7 @@
       - [3D Modeling](#3d-modeling)
       - [Video Editing](#video-editing)
       - [Video Recording](#video-recording)
+      - [Fonts](#fonts)
   - [Productivity](#productivity)
     - [Office Suites](#office-suites)
 
@@ -76,7 +77,6 @@ This 3 arrows is called prompt >>> in python or c:\Users\name> in windows termin
 
 Once you decided the format we have to save it in registry editor. The format I chose is Date & Time | Path >
 
-
 ### How to download PC Battery Report in windows 10/11
 
 Open the cmd prompt as admin and type this command
@@ -84,7 +84,6 @@ Open the cmd prompt as admin and type this command
 ```command line interface
 powercfg /batteryreport /output "D:\battery_report.html"
 ```
-
 
 ### How to turn off external devices wake up PC?
 
@@ -321,9 +320,23 @@ It is just simple, check out this below image, __Note:__ Need python png image i
 
 Cursor preview - <img width="15" height="15" src="https://img.icons8.com/ios/50/text-cursor.png" alt="text-cursor"/>
 
+**For Delete**
+
 1. Delete a letter - use ```Backspace``` to delete a letter from left side of the cursor & use ```Delete``` to delete a letter from right side of the cursor.
 2. Delete a word - use ```Ctrl + Backspace``` to delete a word from left side of the cursor & use ```Ctrl + Delete``` to delete a word from right side of the cursor.
 3. In VS code to delete a current line - use ```shift + Delete``` (that is blinking cursor - entire line).
+
+**For Fold & Unfold**
+
+1. Fold (Ctrl+Shift+[) folds the innermost uncollapsed region at the cursor.
+2. Unfold (Ctrl+Shift+]) unfolds the collapsed region at the cursor.
+3. Toggle Fold (Ctrl+K Ctrl+L) folds or unfolds the region at the cursor.
+4. Fold Recursively (Ctrl+K Ctrl+[) folds the innermost uncollapsed region at the cursor and all regions inside that region.
+5. Unfold Recursively (Ctrl+K Ctrl+]) unfolds the region at the cursor and all regions inside that region.
+6. Fold All (Ctrl+K Ctrl+0) folds all regions in the editor.
+7. Unfold All (Ctrl+K Ctrl+J) unfolds all regions in the editor.
+8. Fold Level X (Ctrl+K Ctrl+2 for level 2) folds all regions of level X, except the region at the current cursor position.
+9. Fold All Block Comments (Ctrl+K Ctrl+/) folds all regions that start with a block comment token.
 
 # World of Open Source! (My favorite)
 
@@ -370,6 +383,8 @@ Cursor preview - <img width="15" height="15" src="https://img.icons8.com/ios/50/
 - GIMP
 - Inkscape
 - Krita (for digital painting)
+- Penpot
+- Figma (Freemium)
 
 #### 3D Modeling
 
@@ -383,9 +398,18 @@ Cursor preview - <img width="15" height="15" src="https://img.icons8.com/ios/50/
 
 - OBS Studio
 
+#### Fonts
+
+- [Fontget](https://www.fontget.com/)
+- [DaFont](https://www.dafont.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [Font Bundles](https://fontbundles.net/free-fonts)
+- [Font squirrel](https://www.fontsquirrel.com/)
+- [1001 Free Fonts](https://www.1001freefonts.com/)
+
 ## Productivity
 
 ### Office Suites
 
 - LibreOffice
-- WPS (freemium)
+- WPS (Freemium)
