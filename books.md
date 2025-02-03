@@ -10,6 +10,7 @@
       - [HTML \& CSS](#html--css)
       - [PostgreSQL](#postgresql)
       - [MySQL](#mysql)
+      - [API](#api)
     - [Free and open source books to download and read online](#free-and-open-source-books-to-download-and-read-online)
     - [Open Sources Books from Famous Book Publishing Companies](#open-sources-books-from-famous-book-publishing-companies)
     - [Free and open source websites to learn](#free-and-open-source-websites-to-learn)
@@ -35,10 +36,13 @@
       - [Django](#django)
   - [Practice](#practice)
 - [Extra](#extra)
+    - [Edge Collections](#edge-collections)
+      - [For Frontend - HTML, CSS \& JavaScript](#for-frontend---html-css--javascript)
     - [Want to learn Math?](#want-to-learn-math)
     - [Free edX Courses](#free-edx-courses)
     - [Free Coursera Courses](#free-coursera-courses)
       - [Important Courses](#important-courses)
+    - [Website that I've logged in](#website-that-ive-logged-in)
     - [My Bachelor of Engineering in Electronics and Communication Engineering Subjects](#my-bachelor-of-engineering-in-electronics-and-communication-engineering-subjects)
         - [Semester I](#semester-i)
         - [Semester II](#semester-ii)
@@ -115,13 +119,18 @@
 
 **Compare All Choose the right curriculum**
 
-1. [PostgreSQL Tutorial](https://neon.tech/postgresql/tutorial) by Neon
-2. [PostgreSQL Tutorial](https://www.w3resource.com/PostgreSQL/tutorial.php) by w3resource
-3. [Basic PostgreSQL](https://hasura.io/learn/database/postgresql/introduction/) by Hasura
+1. [SQL for Data Analytics - Learn SQL in 4 Hours](https://youtu.be/7mz73uXD9DA?si=V-ziqUZm9jQL8jeh) from [Luke Barousse](https://www.youtube.com/@LukeBarousse) YouTube
+2. [PostgreSQL Tutorial](https://neon.tech/postgresql/tutorial) by Neon
+3. [PostgreSQL Tutorial](https://www.w3resource.com/PostgreSQL/tutorial.php) by w3resource
+4. [Basic PostgreSQL](https://hasura.io/learn/database/postgresql/introduction/) by Hasura
 
 #### MySQL
 
 1. [Basic MySQL](https://hasura.io/learn/database/mysql/introduction/) by Hasura
+
+#### API
+
+1. [APIs](https://youtu.be/WXsD0ZgxjRw?si=o-Q37SSzJ58tpCMz) From [freeCodeCamp.org](https://www.youtube.com/@freecodecamp) YouTube
 
 ### Free and open source books to download and read online
 
@@ -140,6 +149,7 @@
 13. [openstax](https://openstax.org/) by [RICE University](https://www.rice.edu/)
 14. [dbooks](https://www.dbooks.org/)
 15. [Programming Notes for Professionals books by Goalkicker](https://goalkicker.com/)
+16. [Javascript For Web Designers](https://javascript-for-web-designers.abookapart.com/) by Mat Marquis from [A BOOK APART](https://abookapart.com/)
 
 ### Open Sources Books from Famous Book Publishing Companies
 
@@ -175,6 +185,7 @@
 4. [Here are 850+ Ivy League Courses You Can Take Right Now for Free](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/)
 5. [120 Free Online Math Courses from the World’s Top Universities](https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/)
 6. [The Top 100 Free University Courses of the Year (Ranked by Popularity)](https://www.freecodecamp.org/news/most-popular-free-online-courses/)
+7. [10 Free Microsoft Power BI Courses for Beginners in 2024](https://medium.com/javarevisited/10-free-microsoft-power-bi-courses-for-beginners-19ee524008e1)
 
 # Roadmap
 
@@ -249,6 +260,17 @@
 
 # Extra
 
+### Edge Collections
+
+#### For Frontend - HTML, CSS & JavaScript
+
+1. [Uiverse](https://uiverse.io/elements)- UI elements: CSS &amp; Tailwind
+2. [Coolors](https://coolors.co/) - The super fast color palettes generator!
+3. [CSS Tricks](https://css-tricks.com/) - A Website About Making Websites
+4. [Paletton](https://paletton.com/) - The Color Scheme Designer
+5. [Ultimate List: 100 Best Inspiration Sites to Inspire Designers in 2024](https://www.toools.design/blog-posts/ultimate-list-100-best-inspiration-sites-to-inspire-designers)
+6. [Figma Resources](https://figmaresource.com/) - Free Templates, Graphics for Designers
+
 ### Want to learn Math?
 
 1. Fun Math Book
@@ -282,31 +304,32 @@
 
 1. https://www.edx.org/course/embedded-systems-shape-the-world-microcontroller-i
 2. https://www.edx.org/course/introduction-to-the-internet-of-things
-3. https://www.edx.org/course/a-system-view-of-communications-from-signals-to-pa
+3. https://www.edx.org/learn/engineering/the-hong-kong-university-of-science-and-technology-a-system-view-of-communications-from-signals-to-packets-part-1
 4. https://www.edx.org/course/introduction-to-the-internet-of-things-iot
 5. https://www.edx.org/course/iot-sensors-and-devices
-6. https://www.edx.org/learn/circuits/massachusetts-institute-of-technology-circuits-and-electronics-1-basic-circuit-analysis
+6. https://www.edx.org/course/circuits-and-electronics-1-basic-circuit-analysi-2
 7. https://www.edx.org/course/embedded-systems-essentials-with-arm-getting-started
 8. https://www.edx.org/course/programming-for-everybody-getting-started-with-pyt
-9. https://www.edx.org/course/scripting-and-programming-foundations-course-v1wguxitec21032t2020b
-10. https://www.edx.org/course/steps-in-japanese-for-beginners2-part1-course-v1wasedaxsjb2-1101x3t2020
+9. https://www.edx.org/course/scripting-and-programming-foundations
+10. https://www.edx.org/course/steps-in-japanese-for-beginners2-part1
 11. https://www.edx.org/course/creating-virtual-reality-vr-apps-2
-12. https://www.edx.org/course/embedded-systems-essentials-with-arm-getting-started-course-v1armeducationedarmxes16x3t2020
-13. https://www.edx.org/course/electronic-optical-and-magnetic-properties-of-materials-2
-14. https://www.edx.org/course/batteries-fuel-cells-and-their-role-in-modern-society-course-v1urfuxbatfuelc20173t2020
-15. https://www.edx.org/course/introduction-to-java-programming-part-2-course-v1hkustxcomp1022x3t2020
-16. https://www.edx.org/course/ap-physics-1-challenging-concepts-course-v1davidsonnextphy1_apccx3t2020
-17. https://www.edx.org/course/c-programming-using-linux-tools-and-libraries
-18. https://www.edx.org/course/from-atoms-to-stars-how-physics-explains-our-world
-19. https://www.edx.org/course/principle-of-semiconductor-devices-part-i-semiconductors-pn-junctions-and-bipolar-junction-transistors-course-v1hkustxelec35001x2t2020a
-20. https://www.edx.org/course/iot-networks-and-protocols-course-v1curtinxiot3x3t2020
-21. https://www.edx.org/course/question-everything-scientific-thinking-in-real-life-3
-22. https://www.edx.org/course/incorporating-renewable-energy-in-electricity-grids-3
-23. https://www.edx.org/course/more-fun-with-prime-numbers-course-v1kyotoux011x1t2020a
-24. https://www.edx.org/course/sign-language-factors-contributing-to-natural-learning
-25. https://www.edx.org/course/iot-system-architecture-design-and-evaluation-4
-26. https://www.edx.org/course/electrical-optical-magnetic-materials-and-devices
-27. https://www.edx.org/course/c-programming-advanced-data-types-2
+12. https://www.edx.org/course/electronic-optical-and-magnetic-properties-of-materials-2
+13. https://www.edx.org/course/batteries-fuel-cells-and-their-role-in-modern-society
+14. https://www.edx.org/course/introduction-to-java-programming-part-2
+15. https://www.edx.org/course/ap-physics-1-challenging-concepts
+16. https://www.edx.org/course/c-programming-using-linux-tools-and-libraries
+17. https://www.edx.org/course/from-atoms-to-stars-how-physics-explains-our-world
+18. https://www.edx.org/course/principle-of-semiconductor-devices-part-i-semiconductors-pn-junctions-and-bipolar-junction-transistors
+19. https://www.edx.org/course/iot-networks-and-protocols-course
+20. https://www.edx.org/course/question-everything-scientific-thinking-in-real-life-3
+21. https://www.edx.org/course/incorporating-renewable-energy-in-electricity-grids-3
+22. https://www.edx.org/course/more-fun-with-prime-numbers
+23. https://www.edx.org/course/sign-language-factors-contributing-to-natural-learning
+24. https://www.edx.org/course/iot-system-architecture-design-and-evaluation-4
+25. https://www.edx.org/course/electrical-optical-magnetic-materials-and-devices
+26. https://www.edx.org/course/c-programming-advanced-data-types-2
+27. https://www.edx.org/learn/circuits/massachusetts-institute-of-technology-circuits-and-electronics-1-basic-circuit-analysis
+28. https://www.edx.org/course/iot-networks-and-protocols
 
 ### Free Coursera Courses
 
@@ -325,18 +348,16 @@
 13. https://www.coursera.org/learn/introduction-embedded-systems
 14. https://www.coursera.org/learn/embedded-software-hardware
 15. https://www.coursera.org/learn/making-architecture
-16. https://www.coursera.org/learn/career-advancement
-17. https://www.coursera.org/learn/how-to-write-a-resume
-18. https://www.coursera.org/learn/creative-problem-solving
-19. https://www.coursera.org/learn/negotiation-skills
-20. https://www.coursera.org/learn/programming-languages-part-b
-21. https://www.coursera.org/specializations/c-programming
-22. https://www.coursera.org/learn/introduction-embedded-systems
-23. https://www.coursera.org/learn/comparch
-24. https://www.coursera.org/learn/3d-cad-fundamental
-25. https://www.coursera.org/learn/arduino
-26. https://www.coursera.org/professional-certificates/meta-back-end-developer
-27. https://www.coursera.org/learn/introduction-to-databases
+16. https://www.coursera.org/learn/how-to-write-a-resume
+17. https://www.coursera.org/learn/creative-problem-solving
+18. https://www.coursera.org/learn/negotiation-skills
+19. https://www.coursera.org/learn/programming-languages-part-b
+20. https://www.coursera.org/specializations/c-programming
+21. https://www.coursera.org/learn/comparch
+22. https://www.coursera.org/learn/3d-cad-fundamental
+23. https://www.coursera.org/learn/arduino
+24. https://www.coursera.org/professional-certificates/meta-back-end-developer
+25. https://www.coursera.org/learn/introduction-to-databases
 
 #### Important Courses
 
@@ -345,6 +366,12 @@
 3. https://www.coursera.org/learn/solar-energy-systems
 4. https://www.coursera.org/learn/exploring-renewable-energy
 5. https://www.coursera.org/learn/photovoltaic-systems
+
+### Website that I've logged in
+
+1. [XelPlus](https://www.xelplus.com/) - Excel and Power BI Courses
+2. [Instructables](https://www.instructables.com/) - Yours for the making
+3. [Tinkercad](https://www.tinkercad.com/)
 
 ### My Bachelor of Engineering in Electronics and Communication Engineering Subjects
 

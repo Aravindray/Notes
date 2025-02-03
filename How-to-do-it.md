@@ -23,6 +23,7 @@
     - [How to run JavaScript file in terminal using node?](#how-to-run-javascript-file-in-terminal-using-node)
     - [How to add Python profile in Windows 11 Terminal?](#how-to-add-python-profile-in-windows-11-terminal)
     - [What to do when blue screen error occur?](#what-to-do-when-blue-screen-error-occur)
+    - [Some Excel Formula](#some-excel-formula)
 - [Helpful Shortcuts](#helpful-shortcuts)
     - [Editor Shortcuts](#editor-shortcuts)
 - [World of Open Source! (My favorite)](#world-of-open-source-my-favorite)
@@ -49,8 +50,8 @@
 # Style Block
 
 <style>
-    red {color: Red}
-    green {color: Green}
+  red {color: Red}
+  green {color: Green}
 </style>
 
 # How to do it?
@@ -314,6 +315,15 @@ It is just simple, check out this below image, __Note:__ Need python png image i
 
 1. Steps yet to add!
 
+### Some Excel Formula
+
+- =IF(G2="D",4,IF(G2="C",3,IF(G2="B",2,IF(G2="A",1))))
+- =IF(G2="09:00 A.M.-10:30 A.M.",1,IF(G2="01:30 P.M.-03:00 P.M.",2))
+- =VLOOKUP(A2,Sheet3!A:B,2,0)
+- =TRIM(SUBSTITUTE(A2,CHAR(160),))
+- =text(vlookup(a2, range, 2,0),"dd/mm/yyyy")
+- =concat(range&"$$") then press f9
+
 # Helpful Shortcuts
 
 ### Editor Shortcuts
@@ -337,6 +347,10 @@ Cursor preview - <img width="15" height="15" src="https://img.icons8.com/ios/50/
 7. Unfold All (Ctrl+K Ctrl+J) unfolds all regions in the editor.
 8. Fold Level X (Ctrl+K Ctrl+2 for level 2) folds all regions of level X, except the region at the current cursor position.
 9. Fold All Block Comments (Ctrl+K Ctrl+/) folds all regions that start with a block comment token.
+
+**For Remove Hyperlink**
+
+```Ctrl + Shift (+ Fn) + F9```
 
 # World of Open Source! (My favorite)
 
