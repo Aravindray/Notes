@@ -150,6 +150,7 @@
 14. [dbooks](https://www.dbooks.org/)
 15. [Programming Notes for Professionals books by Goalkicker](https://goalkicker.com/)
 16. [Javascript For Web Designers](https://javascript-for-web-designers.abookapart.com/) by Mat Marquis from [A BOOK APART](https://abookapart.com/)
+17. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 ### Open Sources Books from Famous Book Publishing Companies
 
@@ -216,7 +217,7 @@
 
 #### Figma
 
-1. Available in Local Disk [Status: Yet to Complete | Notes: A colleague of mine share me the video to learn]
+Available in Local Disk and [Resources](https://danielschifano.notion.site/Complete-Web-Mobile-Designer-Resources-d1d9b6868a7746ffb3b6f02703ac7724) [Status: Yet to Complete | Notes: A colleague of mine share me the video to learn]
 
 ## Backend
 
@@ -372,6 +373,9 @@
 1. [XelPlus](https://www.xelplus.com/) - Excel and Power BI Courses
 2. [Instructables](https://www.instructables.com/) - Yours for the making
 3. [Tinkercad](https://www.tinkercad.com/)
+4. [MIT App Inventor ](https://appinventor.mit.edu/)
+5. [Scratch](https://scratch.mit.edu/) - Imagine, Program, Share
+6. Offensive Security
 
 ### My Bachelor of Engineering in Electronics and Communication Engineering Subjects
 
