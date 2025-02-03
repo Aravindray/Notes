@@ -17,16 +17,15 @@ Cover Letter
 
 This Page shows how to use more phrases to ask for an interview:
 
-    1. I believe that my expertise would be a good match for your company. Would greatly appreciate the opportunity to meet with you to further discuss my qualification. I have enclosed my resume for your review. Thank you your time and consideration. Sincerely, Ozzy Steve.
-    2. I would appreciate the opportunity to discuss my qualifications in an interview. I would like to contact you the following week through your email, to find out if the interview is possible and what day is best for you. Thank you for your consideration of my application and I look forward to meeting with you. Sincerely, Falcón.
-    3. Through  an  internship  at  your  university  I  would  like  to  gain  further  valuable experiences in addition to my studies and to be integrated into a well-trained research team.  Furthermore, I look forward to learning explicitly about the experimental planning process. I would appreciate the opportunity to interview for this internship. I will contact you via phone next week to arrange a time that is convenient for you. Sincerely, Stephanie.
-    4. I would appreciate the opportunity to discuss my qualifications in an interview. thank you for your consideration of my application. With the highest respect, Alena Kur.
-    5. I am looking forward to be one of those teachers who are contributing to fulfill the vision, mission, and objective of……, Sincerely yours, GELINE B. CAHILO.
+1. I believe that my expertise would be a good match for your company. Would greatly appreciate the opportunity to meet with you to further discuss my qualification. I have enclosed my resume for your review. Thank you your time and consideration. Sincerely, Ozzy Steve.
+2. I would appreciate the opportunity to discuss my qualifications in an interview. I would like to contact you the following week through your email, to find out if the interview is possible and what day is best for you. Thank you for your consideration of my application and I look forward to meeting with you. Sincerely, Falcón.
+3. Through  an  internship  at  your  university  I  would  like  to  gain  further  valuable experiences in addition to my studies and to be integrated into a well-trained research team.  Furthermore, I look forward to learning explicitly about the experimental planning process. I would appreciate the opportunity to interview for this internship. I will contact you via phone next week to arrange a time that is convenient for you. Sincerely, Stephanie.
+4. I would appreciate the opportunity to discuss my qualifications in an interview. thank you for your consideration of my application. With the highest respect, Alena Kur.
+5. I am looking forward to be one of those teachers who are contributing to fulfill the vision, mission, and objective of……, Sincerely yours, GELINE B. CAHILO.
 
 Self Introduction
 
 This is(My name is) Aravindraj G. (I graduated from H College with an ECE) I'm a recent electronic engineer graduate from H College. I live in Salem with my parents.
-(My long time goal is heal the world from corruption & crimes by using technologies)
 I'm a self-motivated and I'm always eager to learn somethings  new.
 My biggest strength is quick learning
 My weakness is I take criticism a little too personal.
@@ -43,3 +42,12 @@ A: Are there any opportunities for professional development in this position?
 
 quants
 
+Number System, Percentage, Profit & Loss, Time and Work, Time Speed Distance, Ratio & Proportion, Permutation & Combination - https://www.mathsisfun.com/combinatorics/combinations-permutations.html, Probability, Simple & Compound, Averages
+
+Reasoning
+
+Seating Arrangement, Blood Relation, Coding decoding, Directions, Data Sufficient, Syllogism, Visual Reasoning, Number Series, Alphabet Series, Cubes and Dices, Data Interpretation
+
+Verbal
+
+Sentence Correction, Reading Comprehension, Article & Prepositions, Sentence Completion, Para jumble, Vocabulary, Speech, Voices, Closet Test, Tenses, Idioms and Phrases, Error Spotting
