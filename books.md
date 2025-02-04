@@ -35,6 +35,7 @@
     - [Frameworks](#frameworks-1)
       - [Django](#django)
   - [Practice](#practice)
+- [Project Ideas](#project-ideas)
 - [Extra](#extra)
     - [Edge Collections](#edge-collections)
       - [For Frontend - HTML, CSS \& JavaScript](#for-frontend---html-css--javascript)
@@ -242,7 +243,7 @@ Available in Local Disk and [Resources](https://danielschifano.notion.site/Compl
 
 #### Django
 
-1. [Django 5 by Example](https://amzn.in/d/1zkDF3c) [Status: Reading... | Notes: I bought it ₹1,500]
+1. [Django 5 by Example](https://amzn.in/d/1zkDF3c) [Status: Reading... | Notes: I bought it just ₹1,500]
 
 ## Practice
 
@@ -258,6 +259,13 @@ Available in Local Disk and [Resources](https://danielschifano.notion.site/Compl
 10. [Frontend Mentor](https://www.frontendmentor.io/) (Notes: Logged in using Github)
 11. [Style Stage](https://stylestage.dev/)
 12. [First Timers Only](https://www.firsttimersonly.com/) no idea, need to explore more
+
+# Project Ideas
+
+- [ ] Personal Budget Tracker
+- [ ] Blog website look like YouTube style
+- [x] Project Idea Tracker - Use jira
+- [ ] Milestones Tracker
 
 # Extra
 
