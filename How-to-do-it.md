@@ -323,6 +323,8 @@ It is just simple, check out this below image, __Note:__ Need python png image i
 - =TRIM(SUBSTITUTE(A2,CHAR(160),))
 - =text(vlookup(a2, range, 2,0),"dd/mm/yyyy")
 - =concat(range&"$$") then press f9
+- =offset($x$3,1,match($b2,$x$3:$ac$3,0)-1,79,1)
+- =TEXTJOIN("##",TRUE,IF(A2:A189=I2,B2:B189,"")
 
 # Helpful Shortcuts
 
