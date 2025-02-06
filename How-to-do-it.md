@@ -1,6 +1,5 @@
 ## Table of Content
 
-- [Style Block](#style-block)
 - [How to do it?](#how-to-do-it)
     - [How to login and setup in git?](#how-to-login-and-setup-in-git)
     - [How to add date \& time in command prompt or terminal in windows PC?](#how-to-add-date--time-in-command-prompt-or-terminal-in-windows-pc)
@@ -47,8 +46,6 @@
     - [Office Suites](#office-suites)
 
 <br>
-
-# Style Block
 
 <style>
   red {color: Red}
@@ -136,6 +133,8 @@ Don't need to sign in just click download without sign in.
 
 **Important Note:** Don't Change Window Service Name - default is MYSQL80, Again do not change the name
 
+**author_note:** You can view the google drive video about how to install MySQL
+
 ### How to create and activate virtual environment in python?
 
 Decide your working location / directory where new virtual environment folder lives in your PC.
@@ -152,14 +151,11 @@ $> helium\Scripts\activate
 ```
 From the above command an virtual environment is activated and you can notice it before your terminal prompt.
 
-- Preview
 ```cmd
 (helium) $>
 ```
 
-To deactivate just type **deactivate**
-
-- To deactivate
+- To deactivate just type **deactivate**
 
 **Before**
 ```cmd
@@ -251,10 +247,14 @@ Note: To save the file press ctrl + z or to quit hit ctrl + c within the prompt 
 
 **Delete Folder**
 
-To delete the folder go to the desire folder parent directory and enter the below cmd:
+.
+└── parentFolder/
+    └── childFolder/
+
+To delete a folder go to the desire folder parent directory (In this case, go to parentFolder) and enter the below cmd:
 
 ```cmd
-> rmdir folderName
+> rmdir childFolder
 ```
 
 **Delete File**
@@ -320,7 +320,7 @@ $> pip list
 
 ### What to do when blue screen error occur?
 
-**author_notes:** In Jan 17 or 18 2025, I faced 0xc000021a blue screen error, but SSD hard drive also crash.
+**author_notes:** In Jan 17 2025, I faced 0xc000021a blue screen error, but SSD hard drive also crash.
 
 1. Steps yet to add!
 
