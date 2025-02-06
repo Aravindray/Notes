@@ -22,6 +22,7 @@
     - [How to Install Docker on Windows 11?](#how-to-install-docker-on-windows-11)
     - [How to run JavaScript file in terminal using node?](#how-to-run-javascript-file-in-terminal-using-node)
     - [How to add Python profile in Windows 11 Terminal?](#how-to-add-python-profile-in-windows-11-terminal)
+    - [How to check python installed packages with pip?](#how-to-check-python-installed-packages-with-pip)
     - [What to do when blue screen error occur?](#what-to-do-when-blue-screen-error-occur)
     - [Some Excel Formula](#some-excel-formula)
 - [Helpful Shortcuts](#helpful-shortcuts)
@@ -308,6 +309,14 @@ $> node filename.js
 It is just simple, check out this below image, __Note:__ Need python png image in 16x16 px
 
 ![Image](https://github.com/Aravindray/Notes/blob/main/assets/How%20to%20add%20python%20in%20windows%2011%20terminal%20profile.png)
+
+### How to check python installed packages with pip?
+
+Just type below command in terminal
+
+```py
+$> pip list
+```
 
 ### What to do when blue screen error occur?
 
