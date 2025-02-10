@@ -14,22 +14,22 @@
     - Expressions & Operators
     - Keywords
 
-- Control Structure & Flow
-  - if-else statements
-  - Loops (for, do, do-while, while)
-  - Switch-Case statements
+  - Control Structure & Flow
+    - if-else statements
+    - Loops (for, do, do-while, while)
+    - Switch-Case statements
 
-- Working with Files
-  - Module
-  - Files I/O
+  - Working with Files
+    - Module
+    - Files I/O
 
-- Functions
-  - Understand Parameter & Arguments
-  - Return Types
-  - Scope
-  - Higher-Order Functions
-  - Lambda expressions
-  - Immutability
+  - Functions
+    - Understand Parameter & Arguments
+    - Return Types
+    - Scope
+    - Higher-Order Functions
+    - Lambda expressions
+    - Immutability
 
 - Data Structures
   - Arrays / Lists
