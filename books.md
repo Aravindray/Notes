@@ -4,13 +4,17 @@
     - [Books I own and read!](#books-i-own-and-read)
     - [Open source books I own!](#open-source-books-i-own)
   - [Free Resources](#free-resources)
-    - [Learn Topic Wise](#learn-topic-wise)
-      - [Design Pattern](#design-pattern)
-      - [Data Analysis](#data-analysis)
+    - [Learn Topics / Subject Wise](#learn-topics--subject-wise)
+      - [Python](#python)
+        - [Design Pattern](#design-pattern)
+        - [Data Analysis](#data-analysis)
+      - [JavaScript](#javascript)
       - [HTML \& CSS](#html--css)
       - [PostgreSQL](#postgresql)
       - [MySQL](#mysql)
       - [API](#api)
+      - [Markdown](#markdown)
+      - [LaTex](#latex)
     - [Free and open source books to download and read online](#free-and-open-source-books-to-download-and-read-online)
     - [Open Sources Books from Famous Book Publishing Companies](#open-sources-books-from-famous-book-publishing-companies)
     - [Free and open source websites to learn](#free-and-open-source-websites-to-learn)
@@ -20,14 +24,14 @@
     - [Basic](#basic)
       - [HTML](#html)
       - [CSS](#css)
-      - [JavaScript](#javascript)
+      - [JavaScript](#javascript-1)
     - [Frameworks](#frameworks)
       - [React](#react)
     - [Graphic Design](#graphic-design)
       - [Figma](#figma)
   - [Backend](#backend)
     - [Basic](#basic-1)
-      - [Python](#python)
+      - [Python](#python-1)
     - [Database](#database)
       - [PostgreSQL](#postgresql-1)
       - [MySQL](#mysql-1)
@@ -101,16 +105,30 @@
 
 ## Free Resources
 
-### Learn Topic Wise
+### Learn Topics / Subject Wise
 
-#### Design Pattern
+#### Python
+
+1. [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
+2. [Full Stack Python](https://www.fullstackpython.com/)
+3. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
+##### Design Pattern
 
 1. [Python Design Patterns](https://python-patterns.guide/) by Brandon Rhodes
 2. [Design Patterns Python](https://refactoring.guru/design-patterns/python) by Refactoring
 
-#### Data Analysis
+##### Data Analysis
 
 1. [Python for Data Analysis, 3E](https://wesmckinney.com/book/) by Wes McKinney
+
+#### JavaScript
+
+1. Learn [Eloquent Javascript](https://eloquentjavascript.net/)
+2. [You Don't Know JS Yet 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
+3. To glance JavaScript from [JavaScript Info](https://javascript.info/)
+4. [Exploring JS: JavaScript books for programmers](https://exploringjs.com/index.html) by Dr. Axel Rauschmayer
+5. [Javascript For Web Designers](https://javascript-for-web-designers.abookapart.com/) by Mat Marquis from [A BOOK APART](https://abookapart.com/)
 
 #### HTML & CSS
 
@@ -121,9 +139,10 @@
 **Compare All Choose the right curriculum**
 
 1. [SQL for Data Analytics - Learn SQL in 4 Hours](https://youtu.be/7mz73uXD9DA?si=V-ziqUZm9jQL8jeh) from [Luke Barousse](https://www.youtube.com/@LukeBarousse) YouTube
-2. [PostgreSQL Tutorial](https://neon.tech/postgresql/tutorial) by Neon
-3. [PostgreSQL Tutorial](https://www.w3resource.com/PostgreSQL/tutorial.php) by w3resource
-4. [Basic PostgreSQL](https://hasura.io/learn/database/postgresql/introduction/) by Hasura
+2. [Practical PostgreSQL](http://www.faqs.org/docs/ppbook/book1.htm) book by O'Reilly
+3. [PostgreSQL Tutorial](https://neon.tech/postgresql/tutorial) by Neon
+4. [PostgreSQL Tutorial](https://www.w3resource.com/PostgreSQL/tutorial.php) by w3resource
+5. [Basic PostgreSQL](https://hasura.io/learn/database/postgresql/introduction/) by Hasura
 
 #### MySQL
 
@@ -133,25 +152,29 @@
 
 1. [APIs](https://youtu.be/WXsD0ZgxjRw?si=o-Q37SSzJ58tpCMz) From [freeCodeCamp.org](https://www.youtube.com/@freecodecamp) YouTube
 
+#### Markdown
+
+1. [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+#### LaTex
+
+1. [LeTex in Jupyter notebook](https://patrickwalls.github.io/mathematicalpython/jupyter/latex/)
+
 ### Free and open source books to download and read online
 
 1. [Green Tea Press](https://greenteapress.com/wp/) by Allen Downey
 2. Free programming books by [Free Ebook Foundation](https://ebookfoundation.github.io/free-programming-books/)
-3. [Free Computer Books](https://freecomputerbooks.com/) download only creative common license books
-4. Learn [Eloquent Javascript](https://eloquentjavascript.net/)
-5. To glance JavaScript from [JavaScript Info](https://javascript.info/)
-6. [Collection of Course Materials for Educators](https://collection.bccampus.ca/) by [BCcampus Open Publishing](https://opentextbc.ca/) Open Textbooks Adapted and Created by BC Faculty
-7. [Open Textbook Library](https://open.umn.edu/opentextbooks/) is supported by the [Open Education Network](https://open.umn.edu/oen)
-8. [Succinctly Series: Free Access to 200+ Ebooks](https://www.syncfusion.com/succinctly-free-ebooks/) just intro/basic book only
-9.  [Info Books](https://www.infobooks.org/)
-10. [Free Online Programming Books](https://www.onlineprogrammingbooks.com/) legally
-11. [The Insane app](https://www.theinsaneapp.com/)
-12. [Open book project](https://openbookproject.net/index.php)
-13. [openstax](https://openstax.org/) by [RICE University](https://www.rice.edu/)
-14. [dbooks](https://www.dbooks.org/)
-15. [Programming Notes for Professionals books by Goalkicker](https://goalkicker.com/)
-16. [Javascript For Web Designers](https://javascript-for-web-designers.abookapart.com/) by Mat Marquis from [A BOOK APART](https://abookapart.com/)
-17. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+3. [Free Computer Books](https://freecomputerbooks.com/) - download only creative common license books
+4. [Collection of Course Materials for Educators](https://collection.bccampus.ca/) by [BCcampus Open Publishing](https://opentextbc.ca/) Open Textbooks Adapted and Created by BC Faculty
+5.  [Open Textbook Library](https://open.umn.edu/opentextbooks/) is supported by the [Open Education Network](https://open.umn.edu/oen)
+6.  [Succinctly Series: Free Access to 200+ Ebooks](https://www.syncfusion.com/succinctly-free-ebooks/) just intro/basic book only
+7.  [Info Books](https://www.infobooks.org/)
+8.  [Free Online Programming Books](https://www.onlineprogrammingbooks.com/) legally
+9.  [The Insane app](https://www.theinsaneapp.com/)
+10. [Open book project](https://openbookproject.net/index.php)
+11. [openstax](https://openstax.org/) by [RICE University](https://www.rice.edu/)
+12. [dbooks](https://www.dbooks.org/)
+13. [Programming Notes for Professionals books by Goalkicker](https://goalkicker.com/)
 
 ### Open Sources Books from Famous Book Publishing Companies
 
@@ -188,6 +211,7 @@
 5. [120 Free Online Math Courses from the World’s Top Universities](https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/)
 6. [The Top 100 Free University Courses of the Year (Ranked by Popularity)](https://www.freecodecamp.org/news/most-popular-free-online-courses/)
 7. [10 Free Microsoft Power BI Courses for Beginners in 2024](https://medium.com/javarevisited/10-free-microsoft-power-bi-courses-for-beginners-19ee524008e1)
+8. [23 Free JavaScript Books](https://gist.github.com/WebRTCGame/9fa80ed32a7413bd0f8d71304d6335eb)
 
 # Roadmap
 
