@@ -6,6 +6,7 @@
   - [Free Resources](#free-resources)
     - [Learn Topics / Subject Wise](#learn-topics--subject-wise)
       - [Python](#python)
+        - [Object-Oriented](#object-oriented)
         - [Design Pattern](#design-pattern)
         - [Data Analysis](#data-analysis)
       - [JavaScript](#javascript)
@@ -131,6 +132,10 @@
 2. [Full Stack Python](https://www.fullstackpython.com/)
 3. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
+##### Object-Oriented
+
+1. [Building Skills in Object-Oriented Design, V4](https://slott56.github.io/building-skills-oo-design-book/build/html/index.html)
+
 ##### Design Pattern
 
 1. [Python Design Patterns](https://python-patterns.guide/) by Brandon Rhodes
@@ -230,6 +235,7 @@
 6. [The Top 100 Free University Courses of the Year (Ranked by Popularity)](https://www.freecodecamp.org/news/most-popular-free-online-courses/)
 7. [10 Free Microsoft Power BI Courses for Beginners in 2024](https://medium.com/javarevisited/10-free-microsoft-power-bi-courses-for-beginners-19ee524008e1)
 8. [23 Free JavaScript Books](https://gist.github.com/WebRTCGame/9fa80ed32a7413bd0f8d71304d6335eb)
+9. [Excellent Free Books to Master Programming](https://www.linuxlinks.com/excellent-free-programming-books/)
 
 # Roadmap
 
