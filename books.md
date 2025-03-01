@@ -281,7 +281,7 @@ Available in Local Disk and [Resources](https://danielschifano.notion.site/Compl
 1. Basic & Fundamentals learned from [Python Programming A Modular Approach](https://amzn.in/d/7BF5aWa) [Status: Completed | Notes: ₹525 paperback, At the time of writing]
 2. Object-Oriented Programming learned from [Object-Oriented Python E1 by Irv Kalb](https://nostarch.com/object-oriented-python)
 3. Data Structure & Algorithm learned from []()
-4. Design Pattern learned from [Mastering Python Design Patterns E1](https://www.packtpub.com/en-us/product/mastering-python-design-patterns-9781783989331) [Status: Yet to Read | Notes: Open source book]
+4. Design Pattern learned from []()
 
 ### Database
 
