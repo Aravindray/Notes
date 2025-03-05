@@ -228,6 +228,7 @@
 15. [DEV](https://dev.to/) [Notes: I have signed in]
 16. [W3Schools](https://www.w3schools.com/) [Notes: I have signed in]
 17. [w3resource](https://w3resource.com/index.php)
+18. [Datacamp](https://www.datacamp.com/) [Notes: It's not free so I deleted my account, don't sign up in future]
 
 ### List of some articles about free sources
 
