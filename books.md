@@ -202,6 +202,7 @@
 11. [openstax](https://openstax.org/) by [RICE University](https://www.rice.edu/)
 12. [dbooks](https://www.dbooks.org/)
 13. [Programming Notes for Professionals books by Goalkicker](https://goalkicker.com/)
+14. Tutorials from [DigitalOcean](https://www.digitalocean.com/community/tutorials)
 
 ### Open Sources Books from Famous Book Publishing Companies
 
