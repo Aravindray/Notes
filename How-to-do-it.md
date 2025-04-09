@@ -1,5 +1,4 @@
 ## Table of Content
-
 - [How to do it?](#how-to-do-it)
     - [How to login and setup in git?](#how-to-login-and-setup-in-git)
     - [How to add date \& time in command prompt or terminal in windows PC?](#how-to-add-date--time-in-command-prompt-or-terminal-in-windows-pc)
@@ -22,6 +21,7 @@
     - [How to run JavaScript file in terminal using node?](#how-to-run-javascript-file-in-terminal-using-node)
     - [How to add Python profile in Windows 11 Terminal?](#how-to-add-python-profile-in-windows-11-terminal)
     - [How to check python installed packages with pip?](#how-to-check-python-installed-packages-with-pip)
+    - [How to run jupyter lab in windows terminal?](#how-to-run-jupyter-lab-in-windows-terminal)
     - [What to do when blue screen error occur?](#what-to-do-when-blue-screen-error-occur)
     - [Some Excel Formula](#some-excel-formula)
 - [Helpful Shortcuts](#helpful-shortcuts)
@@ -316,6 +316,14 @@ Just type below command in terminal
 
 ```py
 $> pip list
+```
+
+### How to run jupyter lab in windows terminal?
+
+Just type below command in terminal
+
+```py
+$> jupyter lab
 ```
 
 ### What to do when blue screen error occur?
