@@ -58,17 +58,8 @@ A: I think with my set of skills that I've developed that I can really contribut
 Q: Any question from you
 A: Are there any opportunities for professional development in this position?
 
-quants
 
-Number System, Percentage, Profit & Loss, Time and Work, Time Speed Distance, Ratio & Proportion, Permutation & Combination - https://www.mathsisfun.com/combinatorics/combinations-permutations.html, Probability, Simple & Compound, Averages
 
-Reasoning
-
-Seating Arrangement, Blood Relation, Coding decoding, Directions, Data Sufficient, Syllogism, Visual Reasoning, Number Series, Alphabet Series, Cubes and Dices, Data Interpretation
-
-Verbal
-
-Sentence Correction, Reading Comprehension, Article & Prepositions, Sentence Completion, Para jumble, Vocabulary, Speech, Voices, Closet Test, Tenses, Idioms and Phrases, Error Spotting
 
 # January 2024 - from coursera meta
 

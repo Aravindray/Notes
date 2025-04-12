@@ -1,6 +1,18 @@
+## Table of content
+- [How to Learn a Programming Language](#how-to-learn-a-programming-language)
+  - [Fundamentals](#fundamentals)
+  - [Data Structures](#data-structures)
+  - [Algorithms](#algorithms)
+  - [Object-Oriented Programming](#object-oriented-programming)
+  - [Design Pattern](#design-pattern)
+  - [Error Handling and Debugging](#error-handling-and-debugging)
+  - [Extra](#extra)
+
+# How to Learn a Programming Language
+
 **Note:** This is a summary or starter guide for learning programming; see this [repository](https://github.com/Aravindray/Python) for more in-depth Python notes.
 
-- Fundamentals
+## Fundamentals
   - What is Programming?
 
     Programming is the process of creating a set of instructions that a computer can follow to perform specific tasks. We can communicate with computer with programming languages like humans used to communicate with each others.
@@ -31,7 +43,7 @@
     - Lambda expressions
     - Immutability
 
-- Data Structures
+## Data Structures
   - Arrays / Lists
   - Stacks
   - Queues
@@ -45,7 +57,7 @@
   - Tuples
   - Sets & Maps
 
-- Algorithms
+## Algorithms
   - Basics
     - Dynamic Programming
     - Greedy Algorithm
@@ -64,7 +76,7 @@
   - Recursion
   - Complexity Analysis
 
-- Object-Oriented Programming
+## Object-Oriented Programming
   - Classes and Objects
   - Inheritance
   - Polymorphism
@@ -73,14 +85,14 @@
   - Magic methods
   - Operator overloading
 
-- Design Pattern
+## Design Pattern
   - SOLID Principles
 
-- Error Handling and Debugging
+## Error Handling and Debugging
   - Exceptions
   - Debugging Techniques and Tools
 
-- Extra
+## Extra
   - Regular Expressions
   - Date and Time
   - Async

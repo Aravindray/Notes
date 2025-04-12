@@ -1,5 +1,4 @@
 ## Table of Content
-
 - [How to buy a Laptop?](#how-to-buy-a-laptop)
         - [Ask yourself?](#ask-yourself)
       - [Processors](#processors)

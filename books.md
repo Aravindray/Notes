@@ -1,7 +1,6 @@
 ## Table of Content
 - [About Books!!!](#about-books)
     - [Books I read and need to buy!](#books-i-read-and-need-to-buy)
-    - [Books I own and read!](#books-i-own-and-read)
     - [Open source books I own!](#open-source-books-i-own)
   - [Free Resources](#free-resources)
     - [Learn Topics / Subject Wise](#learn-topics--subject-wise)
@@ -20,35 +19,32 @@
     - [Open Sources Books from Famous Book Publishing Companies](#open-sources-books-from-famous-book-publishing-companies)
     - [Free and open source websites to learn](#free-and-open-source-websites-to-learn)
     - [List of some articles about free sources](#list-of-some-articles-about-free-sources)
-- [Roadmap](#roadmap)
-  - [Frontend](#frontend)
-    - [Basic](#basic)
-      - [HTML](#html)
-      - [CSS](#css)
-      - [JavaScript](#javascript-1)
-    - [Frameworks](#frameworks)
-      - [React](#react)
-    - [Graphic Design](#graphic-design)
-      - [Figma](#figma)
-  - [Backend](#backend)
-    - [Basic](#basic-1)
-      - [Python](#python-1)
-    - [Database](#database)
-      - [PostgreSQL](#postgresql-1)
-      - [MySQL](#mysql-1)
-      - [MongoDB](#mongodb)
-    - [Frameworks](#frameworks-1)
-      - [Django](#django)
-  - [Practice](#practice)
-- [Project Ideas](#project-ideas)
+- [World of Open Source! (My favorite)](#world-of-open-source-my-favorite)
+  - [Development \& Programming](#development--programming)
+    - [Operating System](#operating-system)
+    - [For Web Development](#for-web-development)
+      - [Programming Languages](#programming-languages)
+      - [Frameworks](#frameworks)
+    - [Database Management System](#database-management-system)
+      - [SQL](#sql)
+      - [NoSQL](#nosql)
+    - [Web Browser](#web-browser)
+  - [Creativity and Graphic Design](#creativity-and-graphic-design)
+      - [Photoshop \& Illustrator](#photoshop--illustrator)
+      - [3D Modeling](#3d-modeling)
+      - [Video Editing](#video-editing)
+      - [Video Recording](#video-recording)
+      - [Fonts](#fonts)
+  - [Productivity](#productivity)
+    - [Office Suites](#office-suites)
 - [Extra](#extra)
     - [Edge Collections](#edge-collections)
       - [For Frontend - HTML, CSS \& JavaScript](#for-frontend---html-css--javascript)
+    - [Website that I've logged in](#website-that-ive-logged-in)
     - [Want to learn Math?](#want-to-learn-math)
     - [Free edX Courses](#free-edx-courses)
     - [Free Coursera Courses](#free-coursera-courses)
       - [Important Courses](#important-courses)
-    - [Website that I've logged in](#website-that-ive-logged-in)
     - [My Bachelor of Engineering in Electronics and Communication Engineering Subjects](#my-bachelor-of-engineering-in-electronics-and-communication-engineering-subjects)
         - [Semester I](#semester-i)
         - [Semester II](#semester-ii)
@@ -72,54 +68,9 @@
 | Object-Oriented Python E1 | Beginner | Python               | OOPS using Pygame           | ⭐⭐             | This is the most recent edition till date (24/12/2024) |
 | Grokking Algorithms       | Beginner | Python               | Data Structure & Algorithms | ⭐⭐             | This is the most recent edition till date (24/12/2024) |
 
-### Books I own and read!
-
-| Title                                 | Level    | Programming Language | Topic                       | Recommendation | Notes                      |
-| ------------------------------------- | -------- | -------------------- | --------------------------- | -------------- | -------------------------- |
-| Python Programming A Modular Approach | Beginner | Python               | Fundamental to Intermediate | ⭐⭐⭐⭐⭐          | No new edition             |
-| Django 5 by Example                   | Beginner | Django               | Fundamental to Intermediate | ⭐⭐⭐⭐⭐          | This is the latest edition |
-
 ### Open source books I own!
 
-| Title                                        | Level                                  | Programming Language | Topic          | Did I read it? | Recommendation | Notes                                                                                                                                                           |
-| -------------------------------------------- | -------------------------------------- | -------------------- | -------------- | -------------- | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2024 Backend Roadmap                         | Roadmap                                | -                    | Backend        | No             | -              | By web dev simplified                                                                                                                                           |
-| 2024 Frontend Roadmap                        | Roadmap                                | -                    | Frontend       | No             | -              | By web dev simplified                                                                                                                                           |
-| Blender by Wiki books                        | -                                      | -                    | Blender        | No             | -              | -                                                                                                                                                               |
-| Clean Architectures in Python E2             | -                                      | Python               | -              | No             | -              | [Online Official Version](https://www.thedigitalcatbooks.com/pycabook-introduction/) at [The Digital Cat Books](https://www.thedigitalcatonline.com/index.html) |
-| Clean Code In Python                         | Beginner                               | Python               | SOLID          | No             | -              | Packt free book                                                                                                                                                 |
-| CSS Notes                                    | Beginner                               | CSS                  | -              | No             | -              | This is a succinctly Notes                                                                                                                                      |
-| Database Design 2E                           | Beginner                               | -                    | Database       | No             | -              | -                                                                                                                                                               |
-| Database Design Succinctly                   | Beginner                               | -                    | Database       | No             | -              | This is a succinctly Notes                                                                                                                                      |
-| Database Systems for Management E3           | -                                      | -                    | Database       | No             | -              | -                                                                                                                                                               |
-| Docker Cookbook 2E                           | Beginner (Fundamental to Intermediate) | Docker               | -              | Not Yet        | -              | Packt free book                                                                                                                                                 |
-| Eloquent JavaScript E4                       | Beginner (Fundamental to Intermediate) | JavaScript           | -              | Not Yet        | ⭐⭐⭐⭐⭐          | -                                                                                                                                                               |
-| Evidence-based Software Engineering          | -                                      | -                    | -              | No             | -              | -                                                                                                                                                               |
-| Git Notes                                    | -                                      | Git                  | -              | No             | -              | This is a succinctly Notes                                                                                                                                      |
-| HTML CSS Reference                           | -                                      | HTML & CSS           | -              | No             | -              | This is a succinctly Notes                                                                                                                                      |
-| HTML5 Canvas Notes                           | -                                      | HTML                 | -              | No             | -              | This is a succinctly Notes                                                                                                                                      |
-| HTML5 Notes                                  | -                                      | HTML                 | -              | No             | -              | This is a succinctly Notes                                                                                                                                      |
-| Introduction to Networking                   | Beginner                               | -                    | Networking     | No             | -              | -                                                                                                                                                               |
-| JavaScript Notes                             | -                                      | JavaScript           | -              | No             | -              | This is a succinctly Notes                                                                                                                                      |
-| LaTeX Notes                                  | -                                      | LaTeX                | -              | No             | -              | This is a succinctly Notes                                                                                                                                      |
-| Learning Patterns                            | -                                      | JavaScript & React   | -              | No             | -              | -                                                                                                                                                               |
-| Mastering Kubernetes 2E                      | -                                      | Kubernetes           | -              | No             | -              | Packt free book                                                                                                                                                 |
-| MongoDB Notes                                | -                                      | MongoDB              | NoSQL Database | No             | -              | This is a succinctly Notes                                                                                                                                      |
-| MySQL Notes                                  | -                                      | MySQL                | RDBMS          | No             | -              | This is a succinctly Notes                                                                                                                                      |
-| PostgreSQL Notes                             | -                                      | PostgreSQL           | RDBMS          | No             | -              | This is a succinctly Notes                                                                                                                                      |
-| PowerShell Notes                             | -                                      | PowerShell           | -              | No             | -              | This is a succinctly Notes                                                                                                                                      |
-| Python Notes                                 | -                                      | Python               | -              | No             | -              | This is a succinctly Notes                                                                                                                                      |
-| ReactJS Notes                                | -                                      | ReactJS              | -              | No             | -              | This is a succinctly Notes                                                                                                                                      |
-| Responsive Web Design with HTML5 and CSS3 2E | -                                      | HTML & CSS           | -              | No             | -              |                                                                                                                                                                 |
-| SQL Notes                                    | -                                      | SQL                  | -              | No             | -              | This is a succinctly Notes                                                                                                                                      |
-| The Code Challenge Book                      | -                                      | -                    | -              | No             | -              | -                                                                                                                                                               |
-| The Missing Link                             | -                                      | -                    | Networking     | No             | -              | -                                                                                                                                                               |
-| Think Complexity E2                          | -                                      | Python               | -              | No             | -              | For Latest check [Green Tea Press](https://greenteapress.com/wp/)                                                                                               |
-| Think Data Structures in Java V1.0.0         | -                                      | Java                 | -              | No             | -              | Python version also available in [Green Tea Press](https://allendowney.github.io/DSIRP/)                                                                        |
-| Think OS V0.7.4                              | -                                      | -                    | -              | No             | -              | For Latest check [Green Tea Press](https://greenteapress.com/wp/)                                                                                               |
-| Think Python E3                              | -                                      | Python               | -              | No             | -              | For Latest check [Green Tea Press](https://greenteapress.com/wp/)                                                                                               |
-| TypeScript Notes                             | -                                      | TypeScript           | -              | No             | -              | This is a succinctly Notes                                                                                                                                      |
-| Visual Studio Code Keyboard Shortcuts        | Shortcuts                              | -                    | -              | No             | -              |                                                                                                                                                                 |
+Check out this [books.md](./books.md)
 
 ## Free Resources
 
@@ -243,83 +194,81 @@
 8. [23 Free JavaScript Books](https://gist.github.com/WebRTCGame/9fa80ed32a7413bd0f8d71304d6335eb)
 9. [Excellent Free Books to Master Programming](https://www.linuxlinks.com/excellent-free-programming-books/)
 
-# Roadmap
+# World of Open Source! (My favorite)
 
-## Frontend
+## Development & Programming
 
-### Basic
+### Operating System
 
-#### HTML
+- Linux
 
-1. [Dave Gray](https://youtu.be/mJgBOIoGihA?si=gZCboWvrijUOqFjH) [Status: Completed]
+### For Web Development
 
-#### CSS
+#### Programming Languages
 
-1. [Dave Gray with freeCodeCamp](https://youtu.be/OXGznpKZ_sA?si=2WQJNEUuVA5-7iDL) [Status: Completed]
+- Python
+- JavaScript
+- HTML
+- CSS
+- GIT
 
-#### JavaScript
+#### Frameworks
 
-1. [30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) [Status: Completed | Notes: Learned Little]
-2. [Eloquent JavaScript E4](https://eloquentjavascript.net/) [Status: Yet to Read]
+- React
+- Django
 
-### Frameworks
+### Database Management System
 
-#### React
+#### SQL
 
-1. [Scrimba - Learn React](https://scrimba.com/learn-react-c0e) part of [The Frontend Developer Career Path](https://scrimba.com/the-frontend-developer-career-path-c0j) in collaboration with [Mozilla MDN](https://developer.mozilla.org/en-US/curriculum/)
+- MySQL
+- PostgreSQL
 
-### Graphic Design
+#### NoSQL
 
-#### Figma
+- MongoDB
 
-Available in Local Disk and [Resources](https://danielschifano.notion.site/Complete-Web-Mobile-Designer-Resources-d1d9b6868a7746ffb3b6f02703ac7724) [Status: Yet to Complete | Notes: A colleague of mine share me the video to learn]
+### Web Browser
 
-## Backend
+- Mozilla
 
-### Basic
+## Creativity and Graphic Design
 
-#### Python
+#### Photoshop & Illustrator
 
-1. Basic & Fundamentals learned from [Python Programming A Modular Approach](https://amzn.in/d/7BF5aWa) [Status: Completed | Notes: ₹525 paperback, At the time of writing]
-2. Object-Oriented Programming learned from [Object-Oriented Python E1 by Irv Kalb](https://nostarch.com/object-oriented-python)
-3. Data Structure & Algorithm learned from []()
-4. Design Pattern learned from []()
+- GIMP
+- Inkscape
+- Krita (for digital painting)
+- Penpot
+- Figma (Freemium)
 
-### Database
+#### 3D Modeling
 
-#### PostgreSQL
+- Blender
 
-#### MySQL
+#### Video Editing
 
-#### MongoDB
+- ?
 
-### Frameworks
+#### Video Recording
 
-#### Django
+- OBS Studio
 
-1. [Django 5 by Example](https://amzn.in/d/1zkDF3c) [Status: Reading... | Notes: I bought it just ₹1,500]
+#### Fonts
 
-## Practice
+- [Fontget](https://www.fontget.com/)
+- [DaFont](https://www.dafont.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [Font Bundles](https://fontbundles.net/free-fonts)
+- [Font squirrel](https://www.fontsquirrel.com/)
+- [1001 Free Fonts](https://www.1001freefonts.com/)
 
-1. [CSSBattle](https://cssbattle.dev/) [Notes: Logged in using Google]
-2. [SuperSimpleDev - HTML & CSS](https://youtu.be/G3e-cpL7ofc?si=_HUmOT5nyIUCzSvb) [Status: Yet to Watch]
-3. [SuperSimpleDev - JavaScript](https://youtu.be/EerdGm-ehJQ?si=vUNV5R50UdUt6iKx) [Status: Yet to Watch]
-4. [Codewars](https://www.codewars.com/) [Notes: Logged in using Google]
-5. [CodePen](https://codepen.io/trending) [Notes: Logged in using Google]
-6. [Penpot](https://penpot.app/) [Notes: Logged in using Google]
-7. [Figma](https://www.figma.com/) [Notes: Logged in using Google]
-8. [Coding Game](https://www.codingame.com/) [Notes: Logged in using Google]
-9. [Frontend Practice](https://www.frontendpractice.com/)
-10. [Frontend Mentor](https://www.frontendmentor.io/) (Notes: Logged in using Github)
-11. [Style Stage](https://stylestage.dev/)
-12. [First Timers Only](https://www.firsttimersonly.com/) no idea, need to explore more
+## Productivity
 
-# Project Ideas
+### Office Suites
 
-- [ ] Personal Budget Tracker
-- [ ] Blog website look like YouTube style
-- [x] Project Idea Tracker - Use jira
-- [ ] Milestones Tracker
+- LibreOffice
+- WPS (Freemium)
 
 # Extra
 
@@ -333,6 +282,15 @@ Available in Local Disk and [Resources](https://danielschifano.notion.site/Compl
 4. [Paletton](https://paletton.com/) - The Color Scheme Designer
 5. [Ultimate List: 100 Best Inspiration Sites to Inspire Designers in 2024](https://www.toools.design/blog-posts/ultimate-list-100-best-inspiration-sites-to-inspire-designers)
 6. [Figma Resources](https://figmaresource.com/) - Free Templates, Graphics for Designers
+
+### Website that I've logged in
+
+1. [XelPlus](https://www.xelplus.com/) - Excel and Power BI Courses
+2. [Instructables](https://www.instructables.com/) - Yours for the making
+3. [Tinkercad](https://www.tinkercad.com/)
+4. [MIT App Inventor ](https://appinventor.mit.edu/)
+5. [Scratch](https://scratch.mit.edu/) - Imagine, Program, Share
+6. Offensive Security
 
 ### Want to learn Math?
 
@@ -429,15 +387,6 @@ Available in Local Disk and [Resources](https://danielschifano.notion.site/Compl
 3. https://www.coursera.org/learn/solar-energy-systems
 4. https://www.coursera.org/learn/exploring-renewable-energy
 5. https://www.coursera.org/learn/photovoltaic-systems
-
-### Website that I've logged in
-
-1. [XelPlus](https://www.xelplus.com/) - Excel and Power BI Courses
-2. [Instructables](https://www.instructables.com/) - Yours for the making
-3. [Tinkercad](https://www.tinkercad.com/)
-4. [MIT App Inventor ](https://appinventor.mit.edu/)
-5. [Scratch](https://scratch.mit.edu/) - Imagine, Program, Share
-6. Offensive Security
 
 ### My Bachelor of Engineering in Electronics and Communication Engineering Subjects
 

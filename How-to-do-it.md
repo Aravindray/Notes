@@ -1,49 +1,40 @@
 ## Table of Content
 - [How to do it?](#how-to-do-it)
+  - [Git](#git)
+    - [How to Download git and install it?](#how-to-download-git-and-install-it)
     - [How to login and setup in git?](#how-to-login-and-setup-in-git)
+  - [Windows](#windows)
     - [How to add date \& time in command prompt or terminal in windows PC?](#how-to-add-date--time-in-command-prompt-or-terminal-in-windows-pc)
     - [How to download PC Battery Report in windows 10/11](#how-to-download-pc-battery-report-in-windows-1011)
     - [How to turn off external devices wake up PC?](#how-to-turn-off-external-devices-wake-up-pc)
-    - [How to import modules from different folders in python?](#how-to-import-modules-from-different-folders-in-python)
     - [How to open MS Store using Run?](#how-to-open-ms-store-using-run)
     - [How to clear cache and temp files in windows PC?](#how-to-clear-cache-and-temp-files-in-windows-pc)
-    - [How to install MySql in windows 11?](#how-to-install-mysql-in-windows-11)
-    - [How to create and activate virtual environment in python?](#how-to-create-and-activate-virtual-environment-in-python)
-    - [How to Install NodeJS on Windows 11 PC?](#how-to-install-nodejs-on-windows-11-pc)
     - [How to connect WiFi FTP Server in Windows PC?](#how-to-connect-wifi-ftp-server-in-windows-pc)
     - [How to fetch all files name from a folder and store it as desire file format (ex. csv, xlsx, txt)](#how-to-fetch-all-files-name-from-a-folder-and-store-it-as-desire-file-format-ex-csv-xlsx-txt)
     - [How to create / delete folder and files using windows command prompt?](#how-to-create--delete-folder-and-files-using-windows-command-prompt)
     - [How to rename files bulk in a folder using windows command prompt?](#how-to-rename-files-bulk-in-a-folder-using-windows-command-prompt)
+    - [What to do when blue screen error occur?](#what-to-do-when-blue-screen-error-occur)
+  - [Python](#python)
+    - [How to import modules from different folders in python?](#how-to-import-modules-from-different-folders-in-python)
+    - [How to create and activate virtual environment in python?](#how-to-create-and-activate-virtual-environment-in-python)
     - [How to uninstall pip package?](#how-to-uninstall-pip-package)
-    - [How to Install PostgreSQL on Windows 11?](#how-to-install-postgresql-on-windows-11)
-    - [How to Install WSL2 on Windows 11?](#how-to-install-wsl2-on-windows-11)
-    - [How to Install Docker on Windows 11?](#how-to-install-docker-on-windows-11)
-    - [How to run JavaScript file in terminal using node?](#how-to-run-javascript-file-in-terminal-using-node)
     - [How to add Python profile in Windows 11 Terminal?](#how-to-add-python-profile-in-windows-11-terminal)
     - [How to check python installed packages with pip?](#how-to-check-python-installed-packages-with-pip)
     - [How to run jupyter lab in windows terminal?](#how-to-run-jupyter-lab-in-windows-terminal)
-    - [What to do when blue screen error occur?](#what-to-do-when-blue-screen-error-occur)
+  - [Database](#database)
+    - [How to Install MySql on Windows 11?](#how-to-install-mysql-on-windows-11)
+    - [How to Install PostgreSQL on Windows 11?](#how-to-install-postgresql-on-windows-11)
+  - [JavaScript](#javascript)
+    - [How to Install NodeJS on Windows 11 PC?](#how-to-install-nodejs-on-windows-11-pc)
+    - [How to run JavaScript file in terminal using node?](#how-to-run-javascript-file-in-terminal-using-node)
+  - [Linux - WSL](#linux---wsl)
+    - [How to Install WSL2 on Windows 11?](#how-to-install-wsl2-on-windows-11)
+  - [Docker](#docker)
+    - [How to Install Docker on Windows 11?](#how-to-install-docker-on-windows-11)
+  - [Excel](#excel)
     - [Some Excel Formula](#some-excel-formula)
-- [Helpful Shortcuts](#helpful-shortcuts)
-    - [Editor Shortcuts](#editor-shortcuts)
-- [World of Open Source! (My favorite)](#world-of-open-source-my-favorite)
-  - [Development \& Programming](#development--programming)
-    - [Operating System](#operating-system)
-    - [For Web Development](#for-web-development)
-      - [Programming Languages](#programming-languages)
-      - [Frameworks](#frameworks)
-    - [Database Management System](#database-management-system)
-      - [SQL](#sql)
-      - [NoSQL](#nosql)
-    - [Web Browser](#web-browser)
-  - [Creativity and Graphic Design](#creativity-and-graphic-design)
-      - [Photoshop \& Illustrator](#photoshop--illustrator)
-      - [3D Modeling](#3d-modeling)
-      - [Video Editing](#video-editing)
-      - [Video Recording](#video-recording)
-      - [Fonts](#fonts)
-  - [Productivity](#productivity)
-    - [Office Suites](#office-suites)
+  - [Helpful Shortcuts](#helpful-shortcuts)
+    - [Visual Studio Code Shortcuts](#visual-studio-code-shortcuts)
 
 <br>
 
@@ -53,6 +44,14 @@
 </style>
 
 # How to do it?
+
+## Git
+
+### How to Download git and install it?
+
+Visit this [git-scm](https://git-scm.com/downloads) website and click _Download for Windows_ button to download it.
+
+**author_notes** Check out this video _How to Install Git_ on your google drive directory **My Drive > Videos > How to do it?**
 
 ### How to login and setup in git?
 
@@ -69,6 +68,8 @@ To verify
 ```git
 git config --list
 ```
+
+## Windows
 
 ### How to add date & time in command prompt or terminal in windows PC?
 
@@ -87,19 +88,6 @@ powercfg /batteryreport /output "D:\battery_report.html"
 ### How to turn off external devices wake up PC?
 
 open device manager select _HID Keyboard Device & HID-compliant mouse_ go to Properties then select Power Management tab and uncheck **Allow this device to wake the computer**
-
-### How to import modules from different folders in python?
-
-Question: I have _person.py_ script inside the **JAN2024** folder and I have another folder called **FEB2024** which have _employee.py_ script I need to import _person.py_ script to use it as a base class of _employee.py_, how to import it in python?<br>
-Note: both **JAN2024** and **FEB2024** folder are inside **Python** folder
-
-Answer: The simplest way to add the file path in sys path for python to check the folder. In windows PC don't forget to add **\\\\** between folder hierarchy.
-
-```python
-import sys
-sys.path.append('d:\\Github\\Python\\JAN2024')
-from person import Person
-```
 
 ### How to open MS Store using Run?
 
@@ -120,66 +108,6 @@ Step 6: Go to Edge > <red>Clear browser cache and cookies</red> <br>
 Step 7: click windows key + s > type clear location history > <red>click clear</red> <br>
 Step 8: Go to CMD as administrator > <red>type ```ipconfig /flushDNS```</red> <br>
 Step 9: Advance --- Disk Cleanup > Select Disk > recommended to watch the video in youtube for reference
-
-### How to install MySql in windows 11?
-
-First Go to this website -> [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) and download X64 Architecture file which ends like this vc_redist.x64.exe and Install it.
-
-Then go to [MySql Webiste](https://dev.mysql.com/downloads/installer/) and download the installer (My system is 64 bit)
-
-Then download the Windows (x86, 32-bit), MSI Installer with maximum MB (the second one)
-
-Don't need to sign in just click download without sign in.
-
-**Important Note:** Don't Change Window Service Name - default is MYSQL80, Again do not change the name
-
-**author_note:** You can view the google drive video about how to install MySQL
-
-### How to create and activate virtual environment in python?
-
-Decide your working location / directory where new virtual environment folder lives in your PC.
-
-- To Create
-```command line interface
-$> py -m venv helium
-```
-Above command created a new folder named as 'helium' in the selected location.
-
-- To Activate (for windows PC)
-```command line interface
-$> helium\Scripts\activate
-```
-From the above command an virtual environment is activated and you can notice it before your terminal prompt.
-
-```cmd
-(helium) $>
-```
-
-- To deactivate just type **deactivate**
-
-**Before**
-```cmd
-(helium) $> deactivate
-```
-
-**after**
-```cmd
-$>
-```
-
-### How to Install NodeJS on Windows 11 PC?
-
-Check out this article [Install NodeJS on Windows](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-windows)
-
-First Download <abbr title="Node Version Manager">NVM</abbr> from [NVM For Windows](https://github.com/coreybutler/nvm-windows#installation--upgrades) click Download Now! refer the below image,
-
-![Image](https://github.com/Aravindray/Notes/blob/main/assets/NVM%20Select%20Download%20Now.png)
-
-then select nvm-setup.exe to download and then install it.
-
-After that open PowerShell as Admin, and check the available version with this command ```nvm list available``` and choose the LTS version you needed, then install the node js with this command ```nvm install <version>``` (replacing ```<version>``` with the **number**, ie: ```nvm install 12.14.0```). To confirm the download use this command to check the installed version number with this command ```nvm ls``` and check the 9th, 10th and 11th points from the above attached article.
-
-**author_note:** You can view the google drive video about how to install NodeJS
 
 ### How to connect WiFi FTP Server in Windows PC?
 
@@ -277,31 +205,65 @@ or
 > ren "sorry.mp3" "apology.mp3"
 ```
 
+### What to do when blue screen error occur?
+
+**author_notes:** In Jan 17 2025, I faced 0xc000021a blue screen error, but SSD hard drive also crash.
+
+1. Steps yet to add!
+
+## Python
+
+**Note:** For more in-depth notes check out this [Python repository](https://github.com/Aravindray/Python).
+
+### How to import modules from different folders in python?
+
+Question: I have _person.py_ script inside the **JAN2024** folder and I have another folder called **FEB2024** which have _employee.py_ script I need to import _person.py_ script to use it as a base class of _employee.py_, how to import it in python?<br>
+Note: both **JAN2024** and **FEB2024** folder are inside **Python** folder
+
+Answer: The simplest way to add the file path in sys path for python to check the folder. In windows PC don't forget to add **\\\\** between folder hierarchy.
+
+```python
+import sys
+sys.path.append('d:\\Github\\Python\\JAN2024')
+from person import Person
+```
+
+### How to create and activate virtual environment in python?
+
+Decide your working location / directory where new virtual environment folder lives in your PC.
+
+- To Create
+```command line interface
+$> py -m venv helium
+```
+Above command created a new folder named as 'helium' in the selected location.
+
+- To Activate (for windows PC)
+```command line interface
+$> helium\Scripts\activate
+```
+From the above command an virtual environment is activated and you can notice it before your terminal prompt.
+
+```cmd
+(helium) $>
+```
+
+- To deactivate just type **deactivate**
+
+**Before**
+```cmd
+(helium) $> deactivate
+```
+
+**after**
+```cmd
+$>
+```
+
 ### How to uninstall pip package?
 
 ```cmd
 py -m pip uninstall <package_name>
-```
-
-### How to Install PostgreSQL on Windows 11?
-
-1. Go to [PostgreSQL download](https://www.postgresql.org/download/) page, select [OS](https://www.postgresql.org/download/windows/) (mine is Windows)
-2. Then select [download the installer](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
-3. Then decide your version and architecture which your PC support when click the download icon a file like this _postgresql-17.2-3-windows-x64.exe_ will start downloading.
-4. Install it (while installing set your root user password)
-
-**author_note:** You can view the google drive video about how to install PostgreSQL
-
-### How to Install WSL2 on Windows 11?
-
-### How to Install Docker on Windows 11?
-
-### How to run JavaScript file in terminal using node?
-
-Just like python file, you go the file location in command prompt and type below command
-
-```cmd
-$> node filename.js
 ```
 
 ### How to add Python profile in Windows 11 Terminal?
@@ -326,11 +288,68 @@ Just type below command in terminal
 $> jupyter lab
 ```
 
-### What to do when blue screen error occur?
+## Database
 
-**author_notes:** In Jan 17 2025, I faced 0xc000021a blue screen error, but SSD hard drive also crash.
+### How to Install MySql on Windows 11?
 
-1. Steps yet to add!
+First Go to this website -> [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) and download X64 Architecture file which ends like this vc_redist.x64.exe and Install it.
+
+Then go to [MySql Webiste](https://dev.mysql.com/downloads/installer/) and download the installer (My system is 64 bit)
+
+Then download the Windows (x86, 32-bit), MSI Installer with maximum MB (the second one)
+
+Don't need to sign in just click download without sign in.
+
+**Important Note:** Don't Change Window Service Name - default is MYSQL80, Again do not change the name
+
+**author_notes** Check out this video _How to Install MySQL Note-Do NOT Change Win Service Name MYSQL80_ on your google drive directory **My Drive > Videos > How to do it?**
+
+### How to Install PostgreSQL on Windows 11?
+
+1. Go to [PostgreSQL download](https://www.postgresql.org/download/) page, select [OS](https://www.postgresql.org/download/windows/) (mine is Windows)
+2. Then select [download the installer](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+3. Then decide your version and architecture which your PC support when click the download icon a file like this _postgresql-17.2-3-windows-x64.exe_ will start downloading.
+4. Install it (while installing set your root user password)
+
+**author_notes** Check out this video _How to Install PostgreSQL_ on your google drive directory **My Drive > Videos > How to do it?**
+
+## JavaScript
+
+### How to Install NodeJS on Windows 11 PC?
+
+Check out this article [Install NodeJS on Windows](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-windows)
+
+First Download <abbr title="Node Version Manager">NVM</abbr> from [NVM For Windows](https://github.com/coreybutler/nvm-windows#installation--upgrades) click Download Now! refer the below image,
+
+![Image](https://github.com/Aravindray/Notes/blob/main/assets/NVM%20Select%20Download%20Now.png)
+
+then select nvm-setup.exe to download and then install it.
+
+After that open PowerShell as Admin, and check the available version with this command ```nvm list available``` and choose the LTS version you needed, then install the node js with this command ```nvm install <version>``` (replacing ```<version>``` with the **number**, ie: ```nvm install 12.14.0```). To confirm the download use this command to check the installed version number with this command ```nvm ls``` and check the 9th, 10th and 11th points from the above attached article.
+
+**author_notes** Check out this video _How to Install NodeJS_ on your google drive directory **My Drive > Videos > How to do it?**
+
+### How to run JavaScript file in terminal using node?
+
+Just like python file, you go the file location in command prompt and type below command
+
+```cmd
+$> node filename.js
+```
+
+## Linux - WSL
+
+### How to Install WSL2 on Windows 11?
+
+## Docker
+
+### How to Install Docker on Windows 11?
+
+Visit this [Docker](https://www.docker.com/products/docker-desktop/) official website and hover _Download Docker Desktop_ button and select the operating system to download it.
+
+**author_notes** Check out this video _How to Install Docker_ on your google drive directory **My Drive > Videos > How to do it?**
+
+## Excel
 
 ### Some Excel Formula
 
@@ -343,9 +362,9 @@ $> jupyter lab
 - =offset($x$3,1,match($b2,$x$3:$ac$3,0)-1,79,1)
 - =TEXTJOIN("##",TRUE,IF(A2:A189=I2,B2:B189,"")
 
-# Helpful Shortcuts
+## Helpful Shortcuts
 
-### Editor Shortcuts
+### Visual Studio Code Shortcuts
 
 Cursor preview - <img width="15" height="15" src="https://img.icons8.com/ios/50/text-cursor.png" alt="text-cursor"/>
 
@@ -370,79 +389,3 @@ Cursor preview - <img width="15" height="15" src="https://img.icons8.com/ios/50/
 **For Remove Hyperlink**
 
 ```Ctrl + Shift (+ Fn) + F9```
-
-# World of Open Source! (My favorite)
-
-## Development & Programming
-
-### Operating System
-
-- Linux
-
-### For Web Development
-
-#### Programming Languages
-
-- Python
-- JavaScript
-- HTML
-- CSS
-- GIT
-
-#### Frameworks
-
-- React
-- Django
-
-### Database Management System
-
-#### SQL
-
-- MySQL
-- PostgreSQL
-
-#### NoSQL
-
-- MongoDB
-
-### Web Browser
-
-- Mozilla
-
-## Creativity and Graphic Design
-
-#### Photoshop & Illustrator
-
-- GIMP
-- Inkscape
-- Krita (for digital painting)
-- Penpot
-- Figma (Freemium)
-
-#### 3D Modeling
-
-- Blender
-
-#### Video Editing
-
-- ?
-
-#### Video Recording
-
-- OBS Studio
-
-#### Fonts
-
-- [Fontget](https://www.fontget.com/)
-- [DaFont](https://www.dafont.com/)
-- [Google Fonts](https://fonts.google.com/)
-- [Font Bundles](https://fontbundles.net/free-fonts)
-- [Font squirrel](https://www.fontsquirrel.com/)
-- [1001 Free Fonts](https://www.1001freefonts.com/)
-
-## Productivity
-
-### Office Suites
-
-- LibreOffice
-- WPS (Freemium)
