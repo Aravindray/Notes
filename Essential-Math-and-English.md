@@ -80,3 +80,18 @@
 ### Tenses
 ### Idioms and Phrases
 ### Error Spotting
+
+Helpful Phrases
+
+Three phrases to compare people, places, experience, or things.
+
+1. Noun 1 and Noun 2 + Are similar because + independent clause. (*An independent clause is a complete sentence that has a SUBJECT & a VERB).
+2. Noun 1 and Noun 2 + have (At least 1 noun) _________ in common.
+3. Both + Noun 1 + and + Noun 2 + verb phrase*.
+
+
+Three phrases to contrast people, places, experience, or things.
+
+1. Noun 1 and Noun 2 + are different because + independent clause.
+2. Unlike + Noun 1, Noun 2 + verb phrase*.
+3. Noun 1 + independent clause + but/whereas + Noun 2 + independent clause.

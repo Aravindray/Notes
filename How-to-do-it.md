@@ -24,6 +24,7 @@
   - [Database](#database)
     - [How to Install MySql on Windows 11?](#how-to-install-mysql-on-windows-11)
     - [How to Install PostgreSQL on Windows 11?](#how-to-install-postgresql-on-windows-11)
+    - [How to run psql in terminal on windows 11 with docker container?](#how-to-run-psql-in-terminal-on-windows-11-with-docker-container)
   - [JavaScript](#javascript)
     - [How to Install NodeJS on Windows 11 PC?](#how-to-install-nodejs-on-windows-11-pc)
     - [How to run JavaScript file in terminal using node?](#how-to-run-javascript-file-in-terminal-using-node)
@@ -312,6 +313,10 @@ Don't need to sign in just click download without sign in.
 4. Install it (while installing set your root user password)
 
 **author_notes** Check out this video _How to Install PostgreSQL_ on your google drive directory **My Drive > Videos > How to do it?**
+
+### How to run psql in terminal on windows 11 with docker container?
+
+`docker exec -it blog_db psql -U blog`
 
 ## JavaScript
 
