@@ -25,6 +25,7 @@
     - [How to Install MySql on Windows 11?](#how-to-install-mysql-on-windows-11)
     - [How to Install PostgreSQL on Windows 11?](#how-to-install-postgresql-on-windows-11)
     - [How to run psql in terminal on windows 11 with docker container?](#how-to-run-psql-in-terminal-on-windows-11-with-docker-container)
+    - [How to Install Redis using docker?](#how-to-install-redis-using-docker)
   - [JavaScript](#javascript)
     - [How to Install NodeJS on Windows 11 PC?](#how-to-install-nodejs-on-windows-11-pc)
     - [How to run JavaScript file in terminal using node?](#how-to-run-javascript-file-in-terminal-using-node)
@@ -317,6 +318,14 @@ Don't need to sign in just click download without sign in.
 ### How to run psql in terminal on windows 11 with docker container?
 
 `docker exec -it blog_db psql -U blog`
+
+### How to Install Redis using docker?
+
+1. Use this cmd to install the latest version of redis in your pc `$> docker pull redis`
+2. Then you need to start the container with `$> docker run -it --rn --name redis -p 6379:6379 redis`
+3. While the server is running, open the another terminal window and to start the redis client use this cmd `$> docker exec -it redis sh` to initialize
+4. Then you will see the **#** hash symbol, start the redis client with `# redis-cli` then you will see the redis client shell prompt, like this `127.0.0.1:6379>`, you can start executing the redis commands directly from the shell.
+5. user `exit` to quit the redis client terminal.
 
 ## JavaScript
 
