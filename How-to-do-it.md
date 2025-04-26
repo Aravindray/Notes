@@ -317,7 +317,8 @@ Don't need to sign in just click download without sign in.
 
 ### How to run psql in terminal on windows 11 with docker container?
 
-`docker exec -it blog_db psql -U blog`
+1. Run the container
+2. Then execute this command `docker exec -it blog_db psql -U blog`
 
 ### How to Install Redis using docker?
 
