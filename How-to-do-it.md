@@ -53,7 +53,7 @@
 
 Visit this [git-scm](https://git-scm.com/downloads) website and click _Download for Windows_ button to download it.
 
-**author_notes** Check out this video _How to Install Git_ on your google drive directory **My Drive > Videos > How to do it?**
+**author_notes:** Check out this video _How to Install Git_ on your google drive directory **My Drive > Videos > How to do it?**
 
 ### How to login and setup in git?
 
@@ -304,16 +304,16 @@ Don't need to sign in just click download without sign in.
 
 **Important Note:** Don't Change Window Service Name - default is MYSQL80, Again do not change the name
 
-**author_notes** Check out this video _How to Install MySQL Note-Do NOT Change Win Service Name MYSQL80_ on your google drive directory **My Drive > Videos > How to do it?**
+**author_notes:** Check out this video _How to Install MySQL Note-Do NOT Change Win Service Name MYSQL80_ on your google drive directory **My Drive > Videos > How to do it?**
 
 ### How to Install PostgreSQL on Windows 11?
 
 1. Go to [PostgreSQL download](https://www.postgresql.org/download/) page, select [OS](https://www.postgresql.org/download/windows/) (mine is Windows)
 2. Then select [download the installer](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
-3. Then decide your version and architecture which your PC support when click the download icon a file like this _postgresql-17.2-3-windows-x64.exe_ will start downloading.
+3. Then decide your version and architecture which your PC support when click the download icon a file like this _postgresql-17.x-x-windows-x64.exe_ will start downloading.
 4. Install it (while installing set your root user password)
 
-**author_notes** Check out this video _How to Install PostgreSQL_ on your google drive directory **My Drive > Videos > How to do it?**
+**author_notes:** Check out this video _How to Install PostgreSQL_ on your google drive directory **My Drive > Videos > How to do it?**
 
 ### How to run psql in terminal on windows 11 with docker container?
 
@@ -342,7 +342,7 @@ then select nvm-setup.exe to download and then install it.
 
 After that open PowerShell as Admin, and check the available version with this command ```nvm list available``` and choose the LTS version you needed, then install the node js with this command ```nvm install <version>``` (replacing ```<version>``` with the **number**, ie: ```nvm install 12.14.0```). To confirm the download use this command to check the installed version number with this command ```nvm ls``` and check the 9th, 10th and 11th points from the above attached article.
 
-**author_notes** Check out this video _How to Install NodeJS_ on your google drive directory **My Drive > Videos > How to do it?**
+**author_notes:** Check out this video _How to Install NodeJS_ on your google drive directory **My Drive > Videos > How to do it?**
 
 ### How to run JavaScript file in terminal using node?
 
@@ -362,7 +362,7 @@ $> node filename.js
 
 Visit this [Docker](https://www.docker.com/products/docker-desktop/) official website and hover _Download Docker Desktop_ button and select the operating system to download it.
 
-**author_notes** Check out this video _How to Install Docker_ on your google drive directory **My Drive > Videos > How to do it?**
+**author_notes:** Check out this video _How to Install Docker_ on your google drive directory **My Drive > Videos > How to do it?**
 
 ## Excel
 
