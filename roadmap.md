@@ -65,6 +65,8 @@
 
 #### PostgreSQL
 
+1. Started to learn [PostgreSQL for Everybody](https://courses.edx.org/dashboard/programs/09a4ed28-f66c-4b01-8510-c379cc21fb64/?_gl=1*1dni41n*_gcl_au*MTk2MTg3MTUxOC4xNzQ1NjUzODc3*_ga*MTg2OTQ1ODg4MC4xNzM3NjIxODY4*_ga_D3KS4KMDT0*MTc0NjExMzk3OC44LjEuMTc0NjExNTMyMC4yMS4wLjA.) in EdX.
+
 #### MySQL
 
 #### MongoDB
