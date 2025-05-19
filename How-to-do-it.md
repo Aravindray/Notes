@@ -177,9 +177,11 @@ Note: To save the file press ctrl + z or to quit hit ctrl + c within the prompt 
 
 **Delete Folder**
 
+```
 .
 └── parentFolder/
     └── childFolder/
+```
 
 To delete a folder go to the desire folder parent directory (In this case, go to parentFolder) and enter the below cmd:
 
