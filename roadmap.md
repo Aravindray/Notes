@@ -5,7 +5,7 @@
       - [HTML](#html)
       - [CSS](#css)
       - [JavaScript](#javascript)
-    - [Frameworks](#frameworks)
+    - [FE-Frameworks](#fe-frameworks)
       - [React](#react)
     - [Graphic Design](#graphic-design)
       - [Figma](#figma)
@@ -16,10 +16,11 @@
       - [PostgreSQL](#postgresql)
       - [MySQL](#mysql)
       - [MongoDB](#mongodb)
-    - [Frameworks](#frameworks-1)
+    - [Frameworks](#frameworks)
       - [Django](#django)
   - [Practice](#practice)
 - [Project Ideas](#project-ideas)
+- [Key Templates](#key-templates)
 
 # Roadmap
 
@@ -29,18 +30,18 @@
 
 #### HTML
 
-1. [Dave Gray](https://youtu.be/mJgBOIoGihA?si=gZCboWvrijUOqFjH) [Status: Completed]
+1. [Dave Gray](https://youtu.be/mJgBOIoGihA?si=gZCboWvrijUOqFjH) <span title='&#10003;' style="cursor: pointer;">&#8520;</span>
 
 #### CSS
 
-1. [Dave Gray with freeCodeCamp](https://youtu.be/OXGznpKZ_sA?si=2WQJNEUuVA5-7iDL) [Status: Completed]
+1. [Dave Gray with freeCodeCamp](https://youtu.be/OXGznpKZ_sA?si=2WQJNEUuVA5-7iDL) <span title='&#10003;' style="cursor: pointer;">&#8520;</span>
 
 #### JavaScript
 
-1. [30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) [Status: Completed | Notes: Learned Little]
-2. [Eloquent JavaScript E4](https://eloquentjavascript.net/) [Status: Yet to Read]
+1. [30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) <span title='&#10003;' style="cursor: pointer;">&#8520;</span> <span title='learned little' style="cursor: pointer;">📝</span>
+2. [Eloquent JavaScript E4](https://eloquentjavascript.net/) <span title='Yet to Read!' style="cursor: pointer;">&#8520;</span>
 
-### Frameworks
+### FE-Frameworks
 
 #### React
 
@@ -56,10 +57,10 @@
 
 #### Python
 
-1. Basic & Fundamentals learned from [Python Programming A Modular Approach](https://amzn.in/d/7BF5aWa) [Status: Completed | Notes: ₹525 paperback, At the time of writing]
+1. Basic & Fundamentals learned from [Python Programming A Modular Approach](https://amzn.in/d/7BF5aWa) <span title='&#10003;' style="cursor: pointer;">&#8520;</span> <span title='₹525 paperback, At the time of writing' style="cursor: pointer;">📝</span>
 2. Object-Oriented Programming learned from [Object-Oriented Python E1 by Irv Kalb](https://nostarch.com/object-oriented-python)
-3. Data Structure & Algorithm learned from []()
-4. Design Pattern learned from []()
+3. Data Structure & Algorithm learned from [?](#)
+4. Design Pattern learned from [?](#)
 
 ### Database
 
@@ -75,7 +76,7 @@
 
 #### Django
 
-1. [Django 5 by Example](https://amzn.in/d/1zkDF3c) [Status: Reading... | Notes: I bought it just ₹1,500]
+1. [Django 5 by Example](https://amzn.in/d/1zkDF3c) <span title='Reading...' style="cursor: pointer;">&#8520;</span> <span title='I bought it just ₹1,500' style="cursor: pointer;">📝</span>
 
 ## Practice
 
@@ -98,3 +99,10 @@
 - [ ] Blog website look like YouTube style
 - [x] Project Idea Tracker - Use jira
 - [ ] Milestones Tracker
+
+# Key Templates
+
+- To indicate status use - <span title='&#10003;' style="cursor: pointer;">&#8520;</span>
+- For correct or completed use - &#10003;
+- For Not correct or not completed use - &#10007;
+- For Notes - <span title='learned little' style="cursor: pointer;">📝</span>
