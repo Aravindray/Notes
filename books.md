@@ -70,7 +70,7 @@
 
 ### Open source books I own!
 
-Check out this [books.md](./books.md)
+Check out this [books.xlsx](./books.xlsx)
 
 ## Free Resources
 
