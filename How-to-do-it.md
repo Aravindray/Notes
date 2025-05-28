@@ -379,9 +379,15 @@ Visit this [Docker](https://www.docker.com/products/docker-desktop/) official we
 - =offset($x$3,1,match($b2,$x$3:$ac$3,0)-1,79,1)
 - =TEXTJOIN("##",TRUE,IF(A2:A189=I2,B2:B189,"")
 
-## Helpful Shortcuts
+## Visual Studio Code
 
-### Visual Studio Code Shortcuts
+### How to turn off copilot suggestions in VS Code?
+
+{
+"github.copilot.editor.enableAutoCompletions": false,
+}
+
+### Helpful Shortcuts
 
 Cursor preview - <img width="15" height="15" src="https://img.icons8.com/ios/50/text-cursor.png" alt="text-cursor"/>
 
