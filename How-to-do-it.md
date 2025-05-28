@@ -383,9 +383,12 @@ Visit this [Docker](https://www.docker.com/products/docker-desktop/) official we
 
 ### How to turn off copilot suggestions in VS Code?
 
+```json
 {
 "github.copilot.editor.enableAutoCompletions": false,
 }
+```
+Above settings didn't available at all, so I just disable the copilot extension.
 
 ### Helpful Shortcuts
 
