@@ -35,8 +35,9 @@
     - [How to Install Docker on Windows 11?](#how-to-install-docker-on-windows-11)
   - [Excel](#excel)
     - [Some Excel Formula](#some-excel-formula)
-  - [Helpful Shortcuts](#helpful-shortcuts)
-    - [Visual Studio Code Shortcuts](#visual-studio-code-shortcuts)
+  - [Visual Studio Code](#visual-studio-code)
+    - [How to turn off copilot suggestions in VS Code?](#how-to-turn-off-copilot-suggestions-in-vs-code)
+    - [Helpful Shortcuts](#helpful-shortcuts)
 
 <br>
 
