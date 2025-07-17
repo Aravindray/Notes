@@ -1,10 +1,20 @@
-# Notes - Indexes
+# Notes
 
-| Name                                                                            | Description                                       |
-| ------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [books.md](./books.md)                                                          | It's about books I own, articles to learn, & more |
-| [books.xlsx](./books.xlsx)                                                      | It's about books I own                            |
-| [How to Buy Electronic Devices](./How-to-buy-Electronic-Devices.md)             | It's about how to select best device for you      |
-| [How to do it?](./How-to-do-it.md)                                              | Some Tips and Tricks for me                       |
-| [How to Learn a Programming Language](./How-to-Learn-a-Programming-Language.md) | Some Intro or summary about learning path         |
-| [Roadmap](./roadmap.md)                                                         | My roadmap for full-stack web development         |
+## File Structures
+
+- ├── assets
+- ├── Placement-Aptitude
+  - ├── [English.md](./Placement-Aptitude/English.md)
+  - ├── [Quants.md](./Placement-Aptitude/Quants.md)
+  - └── [Reasoning.md](./Placement-Aptitude/Reasoning.md)
+- ├── [ECE-Curriculum.md](./ECE-Curriculum.md)
+- ├── [Extra.md](./Extra.md)
+- ├── [How-to-Buy.md](./How-to-Buy.md)
+- └── [How-to-do-it.md](./How-to-do-it.md)
+
+
+<style>
+  ul {
+    list-style-type: none;
+  }
+</style>
