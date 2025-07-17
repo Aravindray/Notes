@@ -4,13 +4,13 @@
 
 - ├── assets
 - ├── Placement-Aptitude
-  - ├── [English.md](./Placement-Aptitude/English.md)
-  - ├── [Quants.md](./Placement-Aptitude/Quants.md)
-  - └── [Reasoning.md](./Placement-Aptitude/Reasoning.md)
-- ├── [ECE-Curriculum.md](./ECE-Curriculum.md)
-- ├── [Extra.md](./Extra.md)
-- ├── [How-to-Buy.md](./How-to-Buy.md)
-- └── [How-to-do-it.md](./How-to-do-it.md)
+  - ├── [English.md](https://github.com/Aravindray/Notes/blob/main/Placement-Aptitude/English.md)
+  - ├── [Quants.md](https://github.com/Aravindray/Notes/blob/main/Placement-Aptitude/Quants.md)
+  - └── [Reasoning.md](https://github.com/Aravindray/Notes/blob/main/Placement-Aptitude/Reasoning.md)
+- ├── [ECE-Curriculum.md](https://github.com/Aravindray/Notes/blob/main/ECE-Curriculum.md)
+- ├── [Extra.md](https://github.com/Aravindray/Notes/blob/main/Extra.md)
+- ├── [How-to-Buy.md](https://github.com/Aravindray/Notes/blob/main/How-to-Buy.md)
+- └── [How-to-do-it.md](https://github.com/Aravindray/Notes/blob/main/How-to-do-it.md)
 
 
 <style>
