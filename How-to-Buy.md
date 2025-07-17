@@ -1,25 +1,33 @@
 ## Table of Content
-- [How to buy a Laptop?](#how-to-buy-a-laptop)
-        - [Ask yourself?](#ask-yourself)
-      - [Processors](#processors)
-        - [Processor - Cores](#processor---cores)
-        - [Processor - Base Frequency](#processor---base-frequency)
-        - [Processor - Boost Frequency](#processor---boost-frequency)
-        - [Buy](#buy)
-        - [Don't Buy](#dont-buy)
-      - [Storage](#storage)
+- [How to Buy Electronics?](#how-to-buy-electronics)
+  - [How to Buy a Laptop?](#how-to-buy-a-laptop)
+    - [Ask yourself?](#ask-yourself)
+    - [Processors](#processors)
+      - [Cores](#cores)
+      - [Base Frequency](#base-frequency)
+      - [Boost Frequency](#boost-frequency)
+      - [Buy / Don't Buy](#buy--dont-buy)
+    - [Storage](#storage)
       - [RAM](#ram)
-        - [Buy](#buy-1)
-        - [Don't Buy](#dont-buy-1)
-      - [Graphic Card (GPU)](#graphic-card-gpu)
-        - [Buy](#buy-2)
-        - [Don't Buy](#dont-buy-2)
-- [How to buy a Mobile Phone?](#how-to-buy-a-mobile-phone)
-- [How to buy components to build a Computer?](#how-to-buy-components-to-build-a-computer)
+      - [ROM](#rom)
+      - [Buy / Don't Buy](#buy--dont-buy-1)
+    - [Graphic Card (GPU)](#graphic-card-gpu)
+      - [GPU - Cores](#gpu---cores)
+      - [GPU - Memory](#gpu---memory)
+    - [Connectivity](#connectivity)
+  - [How to Buy a Mobile Phone?](#how-to-buy-a-mobile-phone)
+  - [How to Buy components to build a Computer?](#how-to-buy-components-to-build-a-computer)
+  - [How to Buy a Tablet?](#how-to-buy-a-tablet)
+  - [How to Buy a Headphone?](#how-to-buy-a-headphone)
+  - [How to Buy a Camera?](#how-to-buy-a-camera)
+- [How to Buy Wood Products?](#how-to-buy-wood-products)
+  - [How to Buy a Table and Chairs?](#how-to-buy-a-table-and-chairs)
 
-# How to buy a Laptop?
+# How to Buy Electronics?
 
-##### Ask yourself?
+## How to Buy a Laptop?
+
+### Ask yourself?
 
 - Decide for what purpose?
   - [x] Development
@@ -28,7 +36,7 @@
   - [ ] Gaming
 - What is the budget?
 
-#### Processors
+### Processors
 
 **Good to Know!**
 If Intel  Processor CPU Model name ends with
@@ -36,49 +44,58 @@ If Intel  Processor CPU Model name ends with
 - [ ] P - Better
 - [x] H - Best of all
 
-##### Processor - Cores
+#### Cores
 
-##### Processor - Base Frequency
+#### Base Frequency
 
-##### Processor - Boost Frequency
+#### Boost Frequency
 
-##### Buy
+#### Buy / Don't Buy
 
-##### Don't Buy
+| Buy | Don't Buy    |
+| --- | ------------ |
+| ?   | i3 Processor |
+| ?   | U Model      |
 
-- i3 processor
-- U Model
 
-#### Storage
+### Storage
 
 **Notes:** Go for hybrid
 
-- SSD
-- HDD
+- SSD - Solid State Drive
+- HDD - Hard Disk Drive
 
 #### RAM
 
-##### Buy
+#### ROM
 
-##### Don't Buy
+#### Buy / Don't Buy
 
-- 4 GB and Below
+| Buy | Don't Buy          |
+| --- | ------------------ |
+| ?   | RAM : 4GB or Below |
 
-#### Graphic Card (GPU)
+### Graphic Card (GPU)
 
-##### GPU - Cores
+#### GPU - Cores
 
-##### GPU - Memory
+#### GPU - Memory
 
-#### Connectivity
+### Connectivity
 
 - Bluetooth
 - Wifi 5 or 6
 
-##### Buy
+## How to Buy a Mobile Phone?
 
-##### Don't Buy
+## How to Buy components to build a Computer?
 
-# How to buy a Mobile Phone?
+## How to Buy a Tablet?
 
-# How to buy components to build a Computer?
+## How to Buy a Headphone?
+
+## How to Buy a Camera?
+
+# How to Buy Wood Products?
+
+## How to Buy a Table and Chairs?
