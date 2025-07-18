@@ -119,10 +119,9 @@ Parameters need to check before buying Power Bank
       - 10,000 mAh take 2-3 hours or faster to recharge
 - Compatibility: Ensure it works with your devices.
   - USB-C is most standard in all devices
-  - No of Ports: More ports more devices you can charge
+  - No of Ports: More ports = more devices you can charge
 - Portability: Choose a size that suits your lifestyle.
-  - Weight
-  - Volume
+  - Weight and Volume
     - More mAh power bank has, the heavier and bulkier it tends to be
 - Brand: Opt for a trusted brand for reliability.
   - Need to consider Build Quality
@@ -132,8 +131,8 @@ Parameters need to check before buying Power Bank
   - LCD screen - Will it cost more?
   - Solar Charging - Will it cost more?
   - Water proof - Will it cost more?
-  - Flashlight
-  - You should also avoid buying power banks that run on older technology such as outdated ports (i.e. micro USB) or very slow charging times. If you’re going to buy a new device, why not get the advantages of the new tech as well?
+  - Flashlight - Do we really need it?
+  - It doesn't end there though. You still need to consider other factors like heat loss, resistance, and the product's degeneration over time.
 
 FAQ's
 - How Many mAh Do You Need To Charge Your Phone?
@@ -146,8 +145,8 @@ FAQ's
   - How many full charge is 5000mah power bank?
     - In this case, the total energy is 5000mAh x 3.7V = 18500mWh. Now we need to convert the capacity at 5V to 18500mWH / 5V = 3700mAh.
     - What is 3.7V and 5V values? <sup>[3]</sup>
-
-It doesn't end there though. You still need to consider other factors like heat loss, resistance, and the product's degeneration over time.
+- Should I buy old power bank for low price?
+  - You should also avoid buying power banks that run on older technology such as outdated ports (i.e. micro USB) or very slow charging times. If you’re going to buy a new device, why not get the advantages of the new tech as well?
 
 **Resources**
 1. https://www.powerbankexpert.com/buyers-guide/
