@@ -1,6 +1,7 @@
 # Bachelor of Engineering in Electronics and Communication Engineering Subjects
 
-:LiNotebook: Subjects I learned during my college
+> [!info]
+> :LiNotebook: Subjects I learned during my college
 
 ### Semester I
 
