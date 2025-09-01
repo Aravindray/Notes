@@ -22,6 +22,13 @@ git config --global user.email "your_email"
 git config --list
 ```
 
+### How to add Git profile in Windows 11 Terminal?
+
+> [!warning]
+> Need git png image in 16x16 px
+
+![How to add Git in Windows 11 Terminal Profile](./assets/How-to-add-Git-in-Windows-11-Terminal-Profile.png)
+
 ## Windows
 
 ### How to add date & time in command prompt or terminal in windows PC?
@@ -83,7 +90,7 @@ Step 9: Advance --- Disk Cleanup > Select Disk ><span style="color:rgb(255, 192,
 dir /b > fileName.txt
 ```
 
-### How to create / delete folder and files using windows command prompt?
+### How to create or delete folder and files using windows command prompt?
 
 **Create Folder**
 
@@ -212,7 +219,7 @@ py -m pip uninstall <package_name>
 > [!warning]
 > Need python png image in 16x16 px
 
-![[How to add python in windows 11 terminal profile.png]]
+![How to add Python in Windows 11 terminal profile](./assets/How-to-add-Python-in-Windows-11-terminal-profile.png)
 
 ### How to check python installed packages with pip?
 
@@ -272,7 +279,7 @@ Check out this article [Install NodeJS on Windows](https://learn.microsoft.com/e
 
 First Download <abbr title="Node Version Manager">NVM</abbr> from [NVM For Windows](https://github.com/coreybutler/nvm-windows#installation--upgrades) click Download Now!
 
-![[NVM Select Download Now.png]]
+![NVM Select Download Now](./assets/NVM-Select-Download-Now.png)
 
 then select nvm-setup.exe to download and then install it.
 
