@@ -127,6 +127,201 @@ Parameters need to check before buying Power Bank
 2. https://www.powerbankexpert.com/how-many-mah-to-charge-phone/
 3. https://cyberbackpack.com/blogs/cyberbackpack-travel-accessories-blog/things-to-check-before-buying-a-power-bank
 
+## How to Buy a Printer?
+
+**Ask yourself these questions:**
+
+1. What type of printer you need?
+2. What is your budget?
+3. How much (often) are you going to printing (How frequent)?
+4. What are the features do you want?
+5. And Math (cost of ownership)!
+
+**Naming Convention**
+
+Brand - Series - Model
+
+For model number the higher you go the more features you get, the lesser you go the less features you get
+
+**Best in Market**
+
+1. EPSON
+2. Canon
+3. Brother
+4. HP
+
+>[!tip] More features = More money
+### 1. What type of printer you need?
+
+There are 3 types
+
+1. Ink Cartridge (Don't Buy this one)
+2. Ink Tank Model
+3. Laser Jet
+
+#### Ink Cartridge
+
+- More residential function
+- More compactable for printing photos and everyday usage
+
+**Advantages**
+
+- Better photo prints
+- Less expensive hardware
+- Print on glassy paper
+- Border less
+
+**Disadvantages**
+
+- The longer they sit the more clogged up they get
+- Multiple cleaning cycle to get the print cycle cleaned
+- For frequent printer
+- Expensive per page cost
+- Not great for low volume
+
+#### Ink Tank Model
+
+- Bottle Ink is way less expensive than using Ink Cartridge
+- For Ink Tank we can also use remanufacture ink
+
+**Advantages**
+
+**Disadvantages**
+#### Laser Jet
+
+- Toner - is like ink cartridge
+- If you decided to go for black and white choose Laser
+
+**Advantages**
+
+- More commercial function
+- More Economical choice
+- Don't need to print often
+- Faster
+- Sharp Text and Business graphics
+- Lower per page cost
+- No clogs, cleaning, etc.,
+
+**Disadvantages**
+
+- More expensive Hardware
+
+### 2. What is your budget?
+
+:LiBookTemplate: Our Budget ₹7,000
+
+**Low Price Printers**
+
+1. HP Deskjet
+	- Low functionality with limited features
+2. HP Envy
+	- Ink price is reasonable
+	- Lot of features
+
+**High Price Printers**
+
+1. EPSON ET 3850 / 4850
+2. EPSON ET 8500 / 15000
+3. HP office JET Pro Premier
+	- More high price
+	- Not a bottle jet printer
+	- Good for medium usage / small home office
+
+### 3. How much (often) are you going to printing (how frequent)?
+
+**Never / Little**
+
+- Low price printer
+- Suggestions
+	1. HP Envy Model
+	2. EPSON XP
+	3. EPSON Workforces
+
+**Medium**
+
+- Suggestions
+	1. HP Office Jet Model
+	2. EPSON ECO Tank Model (EPSON ET 2850)
+
+**All the time**
+
+- Suggestions
+	1. Canon Super Tank Printer (Bottle Ink)
+		- Canon PIXMA G1200 / G2200 / G3200 / G4210 / G5020 / G6020
+
+### 4. What are the features do you want?
+
+**Common Questions (Choose top 3 from below)**
+
+1. Just Printing?
+	- :LiBookTemplate: NO
+2. Or Do you need to scan?
+	- :LiBookTemplate: Yes
+3. Scan multiple document at once or have them in one pdf?
+	-  :LiBookTemplate:No
+4. Do you want touch screen?
+	- :LiBookTemplate: NO
+5. Do you want multiple paper trays?
+	- :LiBookTemplate: No
+6. Are you going to printing photos?
+	- :LiBookTemplate: Maybe
+7. Are you going to printing heavy card stock or specialty paper?
+	- :LiBookTemplate: Yes, Shining Papers
+8. Do you need Double side printing / Duplex?
+	- :LiBookTemplate: Maybe
+
+### 5. Math (Cost of ownership)!
+
+- For printers we need to calculate the ink usage per paper
+- Page coverage
+	- For Photos : It covers every single inch
+	- For document: We neglect margin, paragraph space
+
+| Worst Scenario                   | Best Scenario                  |
+| -------------------------------- | ------------------------------ |
+| EPSON InkJet - $150              | EPSON Eco Tank - $300          |
+| Black Cartridge - $20            | Black - $13                    |
+| Color Cartridge - $34            | Color - $20                    |
+| Print 350 papers in Black ink    | Print 7,500 paper in Black ink |
+| Print 240 papers in Color ink    | Print 6,000 paper in Color ink |
+| Total (for 7500 paper) - $1000++ |                                |
+
+### Q & A
+
+Q1: What paper type / quality should we use for cover page?
+A1: Canon Pixma - Matte Photo Paper
+
+### Tips
+
+- Brother Inkvestment Tank MFCJ995DW is good for printing photos, beside Canon is best for photo printing
+- If you want to scan the document, select **glass scanner**
+- Tank Printer is good
+
+### Recommendations
+
+1. EPSON EcoTank 2760 - ₹?
+2. Brother Inkvestment Tank MFCJ995DW - ₹?
+3. Brother HLL2395DW ([Brother HL-L2321D](https://amzn.in/d/fnS7KH5) - ₹10,999*) | Toner ( https://amzn.in/d/8v2GkDd - ₹2,848*)
+4. HP Deskjet - ₹5,299* (Inkjet type so **don't buy**)
+5. EPSON ET 3850 - ₹? / 4850 - ₹?
+6. EPSON ET 8500 - ₹? / 15000 - ₹?
+7. HP office JET Pro Premier - ₹? / 8020 Model - ₹22,429* (https://amzn.in/d/1rmy5CK)
+8. EPSON XP - Not available (Inkjet type so **don't buy**)
+9. EPSON Workforces - too costly starting price is ₹25000* and more so **don't buy**
+10. EPSON EcoTank 2850 - too costly starting price is ₹25000* and more so **don't buy**
+11. Canon Super Tank Printer (Bottle Ink)
+	- Canon PIXMA G1200 / G2200 / G3200* - ₹11,000 / G4210 / G5020 / G6020
+
+> [!tip] Final: Canon PIXMA MegaTank G2730 All-in-One (Print, Scan, Copy) Inktank Colour Printer with 2 Years Standard Warranty - **₹8,999**
+
+\* Sep 2025 - price rate
+
+## How to Buy a Audio Mixer?
+
+## How to Buy a Audio Interface?
+
+## How to Buy a Amplifier?
+
 # How to Buy Wood Products?
 
 ## How to Buy a Table and Chairs?

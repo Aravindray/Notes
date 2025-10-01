@@ -57,17 +57,15 @@ ms-windows-store:updates
 
 ### How to clear cache and temp files in windows PC?
 
-- [ ] Clear Cache and Temp Files 🔁 every month 🛫 2025-09-01
+- [ ] Clear Cache and Temp Files 🔁 every month 🛫 2025-10-01
 
 Step 1: Go to Local Disk (C:) > Windows > SoftwareDistribution > Download > <span style="color:rgb(255, 0, 0)">Inside Download Deleted All</span>
 Step 2: Open Run > %temp% > <span style="color:rgb(255, 0, 0)">Inside temp Deleted All</span> / Another method to open this folder is going through User Name > AppData > Local > Temp > <span style="color:rgb(255, 0, 0)">...</span>
 Step 3: Open Run > temp > click continue > <span style="color:rgb(255, 0, 0)">Inside temp Deleted All</span> / Another method to open this folder is going through This PC > Local Disk (C:) > Windows > Temp > <span style="color:rgb(255, 0, 0)">...</span>
-Step 4: Open Run > prefetch > click continue > <span style="color:rgb(255, 0, 0)">Inside prefetch Deleted All</span> / Another method to open this folder is going through This PC > Local Disk (C:) > Windows > Prefetch > <span style="color:rgb(255, 0, 0)">...</span>
-Step 5: To reset windows store > Open Run > wsreset > <span style="color:rgb(255, 0, 0)">This will clear the cache for windows store</span>
-Step 6: Go to Edge > <span style="color:rgb(255, 0, 0)">Clear browser cache and cookies</span>
-Step 7: click windows key + s > type clear location history > <span style="color:rgb(255, 0, 0)">click clear</span>
-Step 8: Go to CMD as administrator > type `ipconfig /flushDNS`
-Step 9: Advance --- Disk Cleanup > Select Disk ><span style="color:rgb(255, 192, 0)"> recommended to watch the video in youtube for reference</span>
+Step 4: To reset windows store > Open Run > wsreset > <span style="color:rgb(255, 0, 0)">This will clear the cache for windows store</span>
+Step 5: Go to Edge > <span style="color:rgb(255, 0, 0)">Clear browser cache and cookies</span>
+Step 7: Go to CMD as administrator > type `ipconfig /flushDNS`
+Step 8: Advance --- Disk Cleanup > Select Disk ><span style="color:rgb(255, 192, 0)"> recommended to watch the video in youtube for reference</span>
 
 ### How to connect WiFi FTP Server in Windows PC?
 
